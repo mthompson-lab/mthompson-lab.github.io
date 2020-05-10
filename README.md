@@ -1,6 +1,6 @@
-# keedylab.github.io
+# mthompson-lab.github.io
 
-Welcome to the source code for the website of the Keedy Lab, located at the CUNY Advanced Science Research Center. 
+Welcome to the source code for the website of the Thompson Lab, located at UC Merced. 
 
 Technologies this website uses:  
 
@@ -30,8 +30,6 @@ Technologies this website uses:
 
 ## Credits
 
-This website was designed and is maintained by Sakib Hossain (sakibh97 -AT- gmail _dot_ com) of the Keedy Lab.
-
-The basic framework for this website was borrowed from the website of the Fraser Lab at UCSF (www.fraserlab.com).
+The basic framework for this website was borrowed from the website of the Keedy Lab at the the CUNY ASRC (https://keedylab.org), which is based on the website of Fraser Lab at UCSF (www.fraserlab.com).
 
 This website uses CSS styles from https://templated.co.
