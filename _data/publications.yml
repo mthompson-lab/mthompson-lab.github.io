@@ -14,8 +14,8 @@
 #       url: http://mullinslab.ucsf.edu/
 #
 
-- citation: "Pan X, **Thompson M**, Zhang Y, Liu L, Fraser JS, Kelly MJS, Kortemme T. Expanding the space of protein geometries
-by computational design of ​de novo fold families. *Submitted - Preprint on Biorxiv*. 2020."
+- title: "Expanding the space of protein geometries by computational design of ​de novo fold families"
+  citation: "Pan X, **Thompson M**, Zhang Y, Liu L, Fraser JS, Kelly MJS, Kortemme T. (2020) *Submitted - Preprint on Biorxiv*."
   date: '202004'
   image: '/images/pub/pan_2020.png'
   # pmid: ''
