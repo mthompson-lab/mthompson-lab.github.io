@@ -14,7 +14,7 @@
 #       url: http://mullinslab.ucsf.edu/
 #
 
-- title: "Expanding the space of protein geometries by computational design of ​de novo fold families"
+- title: "**Expanding the space of protein geometries by computational design of ​de novo fold families**"
   citation: "Pan X, **Thompson M**, Zhang Y, Liu L, Fraser JS, Kelly MJS, Kortemme T. (2020) *Submitted - Preprint on Biorxiv*."
   date: '202004'
   image: '/images/pub/pan_2020.png'
@@ -28,7 +28,7 @@
     - name: Fraser lab @ UC San Francisco
       url: http://www.fraserlab.com/
 
-- title: "Evolution of an enzyme conformational ensemble guides design of an efficient biocatalyst"
+- title: "**Evolution of an enzyme conformational ensemble guides design of an efficient biocatalyst**"
   citation: "Broom A, Rakotoharisoa RV, **Thompson MC**, Zarifi N, Nguyen E, Mukhametzhanov N, Liu L, Fraser JS, Chica RA. (2020) *Submitted - Preprint on BioRxiv*."
   date: 202003
   image: '/images/pub/broom_2020.jpg'
@@ -42,7 +42,7 @@
     - name: Fraser lab @ UC San Francisco
       url: http://www.fraserlab.com/
 
-- title: "Comparing serial X-ray crystallography and microcrystal electron diffraction (MicroED) as methods for routine structure determination from small macromolecular crystals"
+- title: "**Comparing serial X-ray crystallography and microcrystal electron diffraction (MicroED) as methods for routine structure determination from small macromolecular crystals**"
   citation: "Wolff AM, Young ID, Sierra RG, Brewster AS, Martynowycz MW, Nango E, Sugahara M, Nakane T, Ito K,
 Aquila A, Bhowmick A, Biel JT, Carbajo S, Cohen AE, Cortez S, Gonzalez A, Hino T, Im D, Koralek JD, Kubo M,
 Lazarou TS, Nomura T, Owada S, Samelson A, Tanaka R, Tanaka T, Thompson EM, van den Bedem H, Woldeyes RA,
@@ -79,7 +79,7 @@ Yumoto F, Zhao W, Tono K, Boutet S, Iwata S, Gonen T, Sauter NK, Fraser JS, **Th
     - name: Celebratory Tweetstorm by corresponding author Michael Thompson
       url: https://twitter.com/mctucsf/status/1172334750205218816
 
-- title: "Mix-and-inject XFEL crystallography reveals gated conformational dynamics during enzyme catalysis"
+- title: "**Mix-and-inject XFEL crystallography reveals gated conformational dynamics during enzyme catalysis**"
   citation: "Dasgupta M, Budday D, Oliveira SHP, Madzelan P, Marchany-Rivera D, Seravalli J, Hayes B, Sierra RG, Boutet S,
 Hunter MS, Alonso-Mori R, Batyuk A, Wierman J, Lyubimov A, Brewster AS, Sauter NK, Applegate GA, Tiwari VK, Berkowitz DB,
 **Thompson MC**, Cohen AE, Fraser JS, Wall ME, van den Bedem H, Wilson MA. (2019) *PNAS*."
@@ -103,7 +103,7 @@ Hunter MS, Alonso-Mori R, Batyuk A, Wierman J, Lyubimov A, Brewster AS, Sauter N
     - name: "Paper Submission Celebration Tweets"
       url: https://twitter.com/HvandenBedem/status/1086654403233214464
 
-- title: "Computational design of a modular protein sense/response system"
+- title: "**Computational design of a modular protein sense/response system**"
   citation: "Glasgow AA, Huang Y, Mandell DJ, **Thompson M**, Ritterson R, Loshbaugh AL, Pellegrino J, Krivacic C, Pache RA,
 Barlow KA, Ollikainen N, Jeon D, Kelly MJS, Fraser JS, Kortemme T. (2019) *Science*."
   date: 201904
@@ -124,7 +124,7 @@ Barlow KA, Ollikainen N, Jeon D, Kelly MJS, Fraser JS, Kortemme T. (2019) *Scien
     - name: Fraser lab @ UC San Francisco
       url: http://www.fraserlab.com/
 
-- title: "Temperature-Jump Solution X-ray Scattering Reveals Distinct Motions in a Dynamic Enzyme"
+- title: "**Temperature-Jump Solution X-ray Scattering Reveals Distinct Motions in a Dynamic Enzyme**"
   citation: "**Thompson MC**, Barad BA, Wolff AM, Cho HS, Schotte F, Schwarz DMC, Anfinrud P, Fraser JS. (2019) *Nature Chemistry*."
   date: 201810
   image: '/images/pub/thompson_2019.jpg'
@@ -146,7 +146,7 @@ Barlow KA, Ollikainen N, Jeon D, Kelly MJS, Fraser JS, Kortemme T. (2019) *Scien
     - name: "Paper Submission Celebration Tweetstorm"
       url: https://twitter.com/fraser_lab/status/1067213167367905280
 
-- title: "Microfocus diffraction from different regions of a protein crystal: structural variations and unit-cell polymorphism"
+- title: "**Microfocus diffraction from different regions of a protein crystal: structural variations and unit-cell polymorphism**"
   citation: "**Thompson MC**, Cascio D, Yeates TO. (2018) *Acta Cryst D*."
   date: 201804
   image: '/images/pub/thompson_2018.jpg'
@@ -161,7 +161,7 @@ Barlow KA, Ollikainen N, Jeon D, Kelly MJS, Fraser JS, Kortemme T. (2019) *Scien
     - name: "Yeates lab"
       url: https://yeateslab.mbi.ucla.edu/
     
-- title: "Allosteric Inhibitors, Crystallography and Comparative Analysis Reveal Network of Coordinated Movement Across Human Herpesvirus Proteases"
+- title: "**Allosteric Inhibitors, Crystallography and Comparative Analysis Reveal Network of Coordinated Movement Across Human Herpesvirus Proteases**"
   citation: "Acker TM, Gable JE, Bohn MF, Jaishankar P, **Thompson MC**, Fraser JS, Renslo AR, Craik CS. (2017) *JACS*."
   date: 201706
   image: '/images/pub/acker_2017.jpg'
@@ -182,13 +182,13 @@ Barlow KA, Ollikainen N, Jeon D, Kelly MJS, Fraser JS, Kortemme T. (2019) *Scien
     - name: Fraser lab @ UC San Francisco
       url: http://www.fraserlab.com/
 
-- title: "Identifying and Overcoming Crystal Pathologies: Disorder and Twinning"
+- title: "**Identifying and Overcoming Crystal Pathologies: Disorder and Twinning**"
   citation: "**Thompson MC**. (2017) *Protein Crystallography: Methods and Protocols*."
   date: 201706
   image: '/images/pub/MIMB_disorder_twinning.jpg'
   pmid: 28573574
   
-- title: "Flexibility and design: conformational heterogeneity along the evolutionary trajectory of a redesigned ubiquitin"
+- title: "**Flexibility and design: conformational heterogeneity along the evolutionary trajectory of a redesigned ubiquitin**"
   citation: "Biel JT, **Thompson MC**, Cunningham CN, Corn JE, Fraser JS. (2017) *Structure*."
   date: 201705
   image: '/images/pub/biel_2016_v2.jpg'
@@ -212,7 +212,7 @@ Barlow KA, Ollikainen N, Jeon D, Kelly MJS, Fraser JS, Kortemme T. (2019) *Scien
     - name: 'Preview: Room Temperature X-Ray Crystallography Reveals Conformational Heterogeneity of Engineered Proteins'
       url: http://www.cell.com/structure/fulltext/S0969-2126(17)30105-3'
 
-- title: "Structure of a novel 13 nm dodecahedral nanocage assembled from a redesigned bacterial microcompartment shell protein"
+- title: "**Structure of a novel 13 nm dodecahedral nanocage assembled from a redesigned bacterial microcompartment shell protein**"
   citation: "Jorda J, Leibly DJ, **Thompson MC**, Yeates TO. (2016) *Chemical Communications*."
   date: 201604
   image: '/images/pub/Jorda_2016.jpg'
@@ -225,7 +225,7 @@ Barlow KA, Ollikainen N, Jeon D, Kelly MJS, Fraser JS, Kortemme T. (2019) *Scien
     - name: "Yeates lab"
       url: https://yeateslab.mbi.ucla.edu/
 
-- title: "An allosteric model for control of pore opening by substrate binding in the EutL microcompartment shell protein"
+- title: "**An allosteric model for control of pore opening by substrate binding in the EutL microcompartment shell protein**"
   citation: "**Thompson MC**, Cascio D, Leibly DJ, Yeates TO. (2015) *Protein Science*."
   date: 201604
   image: '/images/pub/thompson_2015_v2.jpg'
@@ -243,7 +243,7 @@ Barlow KA, Ollikainen N, Jeon D, Kelly MJS, Fraser JS, Kortemme T. (2019) *Scien
     - name: "Yeates lab"
       url: https://yeateslab.mbi.ucla.edu/
   
-- title: "Mapping the Conformational Landscape of a Dynamic Enzyme by Multitemperature and XFEL Crystallography"
+- title: "**Mapping the Conformational Landscape of a Dynamic Enzyme by Multitemperature and XFEL Crystallography**"
   citation: "Keedy DA*, Kenner LR*, Warkentin M*, Woldeyes RA*, Hopkins JB, **Thompson MC**, Brewster AS,
 Van Benschoten AH, Baxter EL,  Uervirojnangkoorn M, McPhillips SE, Song J, Alonso-Mori R, Holton JM, Weis WI, Brunger AT,
 Soltis SM, Lemke H, Gonzalez A, Sauter NK, Cohen AE, van den Bedem H, Thorne RE, Fraser JS. (2015) *eLife*."
@@ -278,7 +278,7 @@ Soltis SM, Lemke H, Gonzalez A, Sauter NK, Cohen AE, van den Bedem H, Thorne RE,
     - name: Thorne lab at Cornell
       url: http://pages.physics.cornell.edu/~rthorne/
 
-- title: "Structure of a bacterial microcompartment shell protein bound to a cobalamin cofactor"
+- title: "**Structure of a bacterial microcompartment shell protein bound to a cobalamin cofactor**"
   citation: "**Thompson MC**, Crowley CS, Kopstein J, Bobik TA, Yeates TO. (2014) *Acta Cryst F*."
   date: 201412
   image: '/images/pub/thompson_2014_2.jpg'
@@ -293,7 +293,7 @@ Soltis SM, Lemke H, Gonzalez A, Sauter NK, Cohen AE, van den Bedem H, Thorne RE,
     - name: "Bobik lab @ Iowa State U"
       url: https://www.bbmb.iastate.edu/people/tom-bobik
 
-- title: "Identification of a unique Fe-S cluster binding site in a glycyl-radical type microcompartment shell protein"
+- title: "**Identification of a unique Fe-S cluster binding site in a glycyl-radical type microcompartment shell protein**"
   citation: "**Thompson MC**, Wheatley NM, Jorda J, Sawaya MR, Gidaniyan SD, Ahmed H, Yang Z, McCarty KN, Whitelegge JP, 
 Yeates TO. (2014) *J. Mol. Bio*."
   date: 201409
@@ -308,7 +308,7 @@ Yeates TO. (2014) *J. Mol. Bio*."
     - name: "Yeates lab"
       url: https://yeateslab.mbi.ucla.edu/
 
-- title: "A challenging interpretation of a hexagonally layered protein structure"
+- title: "**A challenging interpretation of a hexagonally layered protein structure**"
   citation: "**Thompson MC**, Yeates TO. (2013) *Acta Cryst D*."
   date: 201312
   image: '/images/pub/thompson_2013.jpg'
@@ -321,7 +321,7 @@ Yeates TO. (2014) *J. Mol. Bio*."
     - name: "Yeates lab"
       url: https://yeateslab.mbi.ucla.edu/
 
-- title: "The protein shells of bacterial microcompartment organelles"
+- title: "**The protein shells of bacterial microcompartment organelles**"
   citation: "Yeates TO, **Thompson MC**, Bobik TA. (2011) *Curr. Opin. Struct. Bio.*."
   date: 201104
   image: '/images/pub/yeates_2011.jpg'
