@@ -14,6 +14,20 @@
 #       url: http://mullinslab.ucsf.edu/
 #
 
+- title: "**Advances in methods for atomic resolution macromolecular structure determination**"
+  citation: "**Thompson MC**, Yeates TO, Rodriguez JA"
+  date: 202007
+  image: '/images/pub/thompson_2020_1.jpg'
+  #pmid:
+  #pmcid:
+  pdf: '/pdf/thompson_2020_1.pdf'
+  links:
+    - name: Yeates Lab @ UCLA
+      url: https://yeateslab.mbi.ucla.edu/
+    - name: Rodriguez Lab @ UCLA
+      url: http://rodriguez.chem.ucla.edu/
+
+
 - title: "**Expanding the space of protein geometries by computational design of ​de novo fold families**"
   citation: "Pan X, **Thompson M**, Zhang Y, Liu L, Fraser JS, Kelly MJS, Kortemme T. (2020) *Submitted - Preprint on Biorxiv*."
   date: '202004'
