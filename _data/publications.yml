@@ -14,12 +14,42 @@
 #       url: http://mullinslab.ucsf.edu/
 #
 
+- title: "**An ultra-potent synthetic nanobody neutralizes SARS-CoV-2 by locking Spike into an inactive conformation**"
+  citation: "a) Schoof M, Faust B, Saunders RA, Sangwan S, Rezelj VV, Hoppe N, Boone M, Billesboelle C, Puchades C, Azumaya CM, Kratochvil HT, Zimanyi M, 
+  Deshpande I, Liang J, Dickinson S, Nguyen HC, Chio CM, Merz GE, Thompson MC, Diwanji D, Schaefer K, Anand AA, Dobzinski N, Zha BS, Simoneau CR, Leon K, 
+  White KM, Chi US, Gupta M, Jin M, Li F, Liu Y, Zhang K, Bulkley D, Sun M, Smith AM, Rizo AN, Moss F, Brilot AF, Pourmal S, Trenker R, Pospiech T, Gupta S, 
+  Barsi-Rhyne B, Belyy V, Barile-Hill AW, Nock S, Liu Y, Krogan NJ, Ralston CY, Swaney DL, Garcia-Sastre A, Ott M, Vignuzzi M, 
+  Quantitative Biosciences Institute (QBI) Coronavirus Research Group Structural Biology Consortium, Walter P, Manglick A. (2020) *Submitted - Preprint on Biorxiv*."
+  date: 202008
+  image: '/images/pub/schoof_2020_1.png'
+  #pmid: 
+  #pmcid: 
+  pdf: '/pdf/schoof_2020_1.pdf'
+  links:
+    - name: QCRG Structural Biology Consortium
+      url: http://qbi.ucsf.edu/qcrg/structuralbiology
+    - name: Manglick Lab @ UCSF
+      url: https://www.mangliklab.com/
+    - name: Walter Lab @ UCSF
+      url: http://walterlab.ucsf.edu/
+    - name: Vignuzzi Lab @ Institut Pasteur
+      url: http://www.vignuzzilab.eu/
+    - name: Ott Lab @ UCSF
+      url: http://www.ottlab.ucsf.edu/
+    - name: Garcia-Sastre Lab @ Mount Sinai
+      url: https://labs.icahn.mssm.edu/garcia-sastre/
+    - name: Krogan Lab @ UCSF
+      url: https://kroganlab.ucsf.edu/krogan-lab
+    - name: Biosciences Division @ LBNL
+      url: https://biosciences.lbl.gov/
+
+
 - title: "**Advances in methods for atomic resolution macromolecular structure determination**"
-  citation: "**Thompson MC**, Yeates TO, Rodriguez JA"
+  citation: "**Thompson MC**, Yeates TO, Rodriguez JA. (2020) *F1000Res.*"
   date: 202007
   image: '/images/pub/thompson_2020_1.jpg'
-  #pmid:
-  #pmcid:
+  pmid: 32676184
+  pmcid: PMC7333361
   pdf: '/pdf/thompson_2020_1.pdf'
   links:
     - name: Yeates Lab @ UCLA
