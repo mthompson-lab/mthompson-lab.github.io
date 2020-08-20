@@ -23,7 +23,8 @@
   date: 202008
   image: '/images/pub/schoof_2020_1.png'
   #pmid: 
-  #pmcid: 
+  #pmcid:
+  biorxiv: '2020.08.08.238469v2' 
   pdf: '/pdf/schoof_2020_1.pdf'
   links:
     - name: QCRG Structural Biology Consortium
