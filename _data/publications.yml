@@ -14,6 +14,21 @@
 #       url: http://mullinslab.ucsf.edu/
 #
 
+
+- title: "**Expanding the space of protein geometries by computational design of ​de novo fold families**"
+  citation: "Pan X, **Thompson M**, Zhang Y, Liu L, Fraser JS, Kelly MJS, Kortemme T. (2020) *Science*."
+  date: '202008'
+  image: '/images/pub/pan_2020.png'
+  pmid: '32855341'
+  # pmcid: ''
+  #biorxiv: '2020.04.14.041772'
+  pdf: '/pdf/pan_2020.pdf'
+  links:
+    - name: Kortemme lab @ UC San Francisco
+      url: http://kortemmelab.ucsf.edu/
+    - name: Fraser lab @ UC San Francisco
+      url: http://www.fraserlab.com/
+
 - title: "**An ultra-potent synthetic nanobody neutralizes SARS-CoV-2 by locking Spike into an inactive conformation**"
   citation: "Schoof M, Faust B, Saunders RA, Sangwan S, Rezelj VV, Hoppe N, Boone M, Billesboelle C, Puchades C, Azumaya CM, Kratochvil HT, Zimanyi M, 
   Deshpande I, Liang J, Dickinson S, Nguyen HC, Chio CM, Merz GE, **Thompson MC**, Diwanji D, Schaefer K, Anand AA, Dobzinski N, Zha BS, Simoneau CR, Leon K, 
@@ -61,21 +76,6 @@
       url: https://yeateslab.mbi.ucla.edu/
     - name: Rodriguez Lab @ UCLA
       url: http://rodriguez.chem.ucla.edu/
-
-
-- title: "**Expanding the space of protein geometries by computational design of ​de novo fold families**"
-  citation: "Pan X, **Thompson M**, Zhang Y, Liu L, Fraser JS, Kelly MJS, Kortemme T. (2020) *Submitted - Preprint on Biorxiv*."
-  date: '202004'
-  image: '/images/pub/pan_2020.png'
-  # pmid: ''
-  # pmcid: ''
-  biorxiv: '2020.04.14.041772'
-  pdf: '/pdf/pan_2020.pdf'
-  links:
-    - name: Kortemme lab @ UC San Francisco
-      url: http://kortemmelab.ucsf.edu/
-    - name: Fraser lab @ UC San Francisco
-      url: http://www.fraserlab.com/
 
 - title: "**Evolution of an enzyme conformational ensemble guides design of an efficient biocatalyst**"
   citation: "Broom A, Rakotoharisoa RV, **Thompson MC**, Zarifi N, Nguyen E, Mukhametzhanov N, Liu L, Fraser JS, Chica RA. (2020) *Submitted - Preprint on BioRxiv*."
