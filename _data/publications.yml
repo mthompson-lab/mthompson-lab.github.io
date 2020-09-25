@@ -14,6 +14,20 @@
 #       url: http://mullinslab.ucsf.edu/
 #
 
+- title: "**Ensemble-based enzyme design can recapitulate the effects of directed evolution in silico**"
+  citation: "Broom A, Rakotoharisoa RV, **Thompson MC**, Zarifi N, Nguyen E, Mukhametzhanov N, Liu L, Fraser JS, Chica RA. (2020) *Nature Communications*."
+  date: 202003
+  image: '/images/pub/broom_2020.jpg'
+  # pmid:
+  # pmcid:
+  # biorxiv: 2020.03.19.999235
+  pdf: '/pdf/broom_2020.pdf'
+  links:
+    - name: Chica Lab @ UOttawa
+      url: https://mysite.science.uottawa.ca/rchica/
+    - name: Fraser lab @ UC San Francisco
+      url: http://www.fraserlab.com/
+
 
 - title: "**Expanding the space of protein geometries by computational design of ​de novo fold families**"
   citation: "Pan X, **Thompson M**, Zhang Y, Liu L, Fraser JS, Kelly MJS, Kortemme T. (2020) *Science*."
@@ -77,19 +91,6 @@
     - name: Rodriguez Lab @ UCLA
       url: http://rodriguez.chem.ucla.edu/
 
-- title: "**Evolution of an enzyme conformational ensemble guides design of an efficient biocatalyst**"
-  citation: "Broom A, Rakotoharisoa RV, **Thompson MC**, Zarifi N, Nguyen E, Mukhametzhanov N, Liu L, Fraser JS, Chica RA. (2020) *Submitted - Preprint on BioRxiv*."
-  date: 202003
-  image: '/images/pub/broom_2020.jpg'
-  # pmid:
-  # pmcid:
-  biorxiv: 2020.03.19.999235
-  pdf: '/pdf/broom_2020.pdf'
-  links:
-    - name: Chica Lab @ UOttawa
-      url: https://mysite.science.uottawa.ca/rchica/
-    - name: Fraser lab @ UC San Francisco
-      url: http://www.fraserlab.com/
 
 - title: "**Comparing serial X-ray crystallography and microcrystal electron diffraction (MicroED) as methods for routine structure determination from small macromolecular crystals**"
   citation: "Wolff AM, Young ID, Sierra RG, Brewster AS, Martynowycz MW, Nango E, Sugahara M, Nakane T, Ito K,
