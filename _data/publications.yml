@@ -14,44 +14,15 @@
 #       url: http://mullinslab.ucsf.edu/
 #
 
-- title: "**Ensemble-based enzyme design can recapitulate the effects of directed evolution in silico**"
-  citation: "Broom A, Rakotoharisoa RV, **Thompson MC**, Zarifi N, Nguyen E, Mukhametzhanov N, Liu L, Fraser JS, Chica RA. (2020) *Nature Communications*."
-  date: 202003
-  image: '/images/pub/broom_2020.jpg'
-  # pmid:
-  # pmcid:
-  # biorxiv: 2020.03.19.999235
-  pdf: '/pdf/broom_2020.pdf'
-  links:
-    - name: Chica Lab @ UOttawa
-      url: https://mysite.science.uottawa.ca/rchica/
-    - name: Fraser lab @ UC San Francisco
-      url: http://www.fraserlab.com/
-
-
-- title: "**Expanding the space of protein geometries by computational design of ​de novo fold families**"
-  citation: "Pan X, **Thompson M**, Zhang Y, Liu L, Fraser JS, Kelly MJS, Kortemme T. (2020) *Science*."
-  date: '202008'
-  image: '/images/pub/pan_2020.png'
-  pmid: '32855341'
-  # pmcid: ''
-  #biorxiv: '2020.04.14.041772'
-  pdf: '/pdf/pan_2020.pdf'
-  links:
-    - name: Kortemme lab @ UC San Francisco
-      url: http://kortemmelab.ucsf.edu/
-    - name: Fraser lab @ UC San Francisco
-      url: http://www.fraserlab.com/
-
-- title: "**An ultra-potent synthetic nanobody neutralizes SARS-CoV-2 by locking Spike into an inactive conformation**"
+- title: "**An ultrapotent synthetic nanobody neutralizes SARS-CoV-2 by stabilizing inactive Spike**"
   citation: "Schoof M, Faust B, Saunders RA, Sangwan S, Rezelj VV, Hoppe N, Boone M, Billesboelle C, Puchades C, Azumaya CM, Kratochvil HT, Zimanyi M, 
   Deshpande I, Liang J, Dickinson S, Nguyen HC, Chio CM, Merz GE, **Thompson MC**, Diwanji D, Schaefer K, Anand AA, Dobzinski N, Zha BS, Simoneau CR, Leon K, 
   White KM, Chi US, Gupta M, Jin M, Li F, Liu Y, Zhang K, Bulkley D, Sun M, Smith AM, Rizo AN, Moss F, Brilot AF, Pourmal S, Trenker R, Pospiech T, Gupta S, 
   Barsi-Rhyne B, Belyy V, Barile-Hill AW, Nock S, Liu Y, Krogan NJ, Ralston CY, Swaney DL, Garcia-Sastre A, Ott M, Vignuzzi M, 
-  Quantitative Biosciences Institute (QBI) Coronavirus Research Group Structural Biology Consortium, Walter P, Manglick A. (2020) *Submitted - Preprint on Biorxiv*."
-  date: 202008
+  Quantitative Biosciences Institute (QBI) Coronavirus Research Group Structural Biology Consortium, Walter P, Manglick A. (2020) *Science*."
+  date: 202011
   image: '/images/pub/schoof_2020_1.png'
-  #pmid: 
+  pmid: 33154106
   #pmcid:
   biorxiv: '2020.08.08.238469' 
   pdf: '/pdf/schoof_2020_1.pdf'
@@ -76,6 +47,37 @@
       url: https://www.ucsf.edu/news/2020/08/418241/aeronabs-promise-powerful-inhalable-protection-against-covid-19
     - name: Coverage by Vice News
       url: https://www.vice.com/en_us/article/z3e88j/scientists-say-they-developed-a-nanobody-that-protects-against-covid-19
+
+
+- title: "**Ensemble-based enzyme design can recapitulate the effects of directed evolution in silico**"
+  citation: "Broom A, Rakotoharisoa RV, **Thompson MC**, Zarifi N, Nguyen E, Mukhametzhanov N, Liu L, Fraser JS, Chica RA. (2020) *Nature Communications*."
+  date: 202003
+  image: '/images/pub/broom_2020.jpg'
+  pmid: 32968058
+  pmcid: PMC7511930
+  biorxiv: 2020.03.19.999235
+  pdf: '/pdf/broom_2020.pdf'
+  links:
+    - name: Chica Lab @ UOttawa
+      url: https://mysite.science.uottawa.ca/rchica/
+    - name: Fraser lab @ UC San Francisco
+      url: http://www.fraserlab.com/
+
+
+- title: "**Expanding the space of protein geometries by computational design of ​de novo fold families**"
+  citation: "Pan X, **Thompson M**, Zhang Y, Liu L, Fraser JS, Kelly MJS, Kortemme T. (2020) *Science*."
+  date: '202008'
+  image: '/images/pub/pan_2020.png'
+  pmid: '32855341'
+  # pmcid: ''
+  biorxiv: '2020.04.14.041772'
+  pdf: '/pdf/pan_2020.pdf'
+  links:
+    - name: Kortemme lab @ UC San Francisco
+      url: http://kortemmelab.ucsf.edu/
+    - name: Fraser lab @ UC San Francisco
+      url: http://www.fraserlab.com/
+
 
 
 - title: "**Advances in methods for atomic resolution macromolecular structure determination**"
