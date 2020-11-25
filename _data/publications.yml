@@ -14,6 +14,43 @@
 #       url: http://mullinslab.ucsf.edu/
 #
 
+- title: "**Fragment binding to the Nsp3 macrodomain of SARS-CoV-2 identified through crystallographic screening and computational docking**"
+  citation: "Schuller M, Correy GJ, Gahbauer S, Fearon D, Wu T, Diaz RE, Young ID, Martins LC, Smith DH, Schulze-Gahmen U, Owens TW, Deshpande I, Merz GE, Thwin AC, Biel JT, Peters JK,
+  Moritz M, Herrera N, Kratochvi HT, QCRG Structural Biology Consortium, Aimon A, Bennett JM, Brandao Neto J, Cohen AE, Dias A, Douangamath A, Dunnett L, Fedorov O, Ferla MP, Fuchs M, 
+  Gorrie-Stone TJ, Holton JM, Johnson MG, Krojer T, Meigs G, Powell AJ, Rack JGM, Rangel VL, Russi S, Skyner RE, Smith CA, Soares AS, Wierman JL, Zhu K, Jura N, Ashworth A, Irwin J, 
+  **Thompson MC**, Gestwicki JE, von Delft F, Shoichet BK, Fraser JS, Ahel I. (2020) *bioRxiv*."
+  date: 202011
+  image: '/images/pub/macrodomain_2020_1.png'
+  #pmid: 
+  #pmcid:
+  biorxiv: '2020.11.24.393405v1' 
+  pdf: '/pdf/macrodomain_2020_1.pdf'
+  links:
+    - name: View structures of fragment hits with Fragalysis
+      url: https://fragalysis.diamond.ac.uk/viewer/react/preview/target/mArh
+    - name: Ahel Lab @ Oxford
+      url: https://ivanahellab.wixsite.com/ivan-ahel-lab
+    - name: Fraser Lab @ UCSF
+      url: https://fraserlab.com/
+    - name: Shoichet Lab @ UCSF
+      url: http://www.bkslab.org/
+    - name: XChem @ Diamond Light Source
+      url: https://www.diamond.ac.uk/Instruments/Mx/Fragment-Screening.html
+    - name: Gestwicki Lab @ UCSF
+      url: https://gestwickilab.ucsf.edu/
+    - name: Ashworth Lab @ UCSF
+      url: https://cancer.ucsf.edu/people/profiles/ashworth_alan
+    - name: QCRG Structural Biology Consortium
+      url: http://qbi.ucsf.edu/qcrg/structuralbiology
+    - name: ALS Beamline 8.3.1
+      url: https://bl831.als.lbl.gov/
+    - name: Biosciences Division @ LBNL
+      url: https://biosciences.lbl.gov/
+    - name: SSRL Structural Molecular Biology Beamlines @ SLAC
+      url: https://smb.slac.stanford.edu/
+    - name: FMX Beamline @ NSLS-II
+      url: https://www.bnl.gov/ps/beamlines/beamline.php?r=17-ID-2
+    
 - title: "**An ultrapotent synthetic nanobody neutralizes SARS-CoV-2 by stabilizing inactive Spike**"
   citation: "Schoof M, Faust B, Saunders RA, Sangwan S, Rezelj VV, Hoppe N, Boone M, Billesboelle C, Puchades C, Azumaya CM, Kratochvil HT, Zimanyi M, 
   Deshpande I, Liang J, Dickinson S, Nguyen HC, Chio CM, Merz GE, **Thompson MC**, Diwanji D, Schaefer K, Anand AA, Dobzinski N, Zha BS, Simoneau CR, Leon K, 
