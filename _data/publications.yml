@@ -23,7 +23,7 @@
   image: '/images/pub/macrodomain_2020_1.png'
   #pmid: 
   #pmcid:
-  biorxiv: '2020.11.24.393405v1' 
+  biorxiv: '2020.11.24.393405' 
   pdf: '/pdf/macrodomain_2020_1.pdf'
   links:
     - name: View structures of fragment hits with Fragalysis
