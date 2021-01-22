@@ -1,7 +1,7 @@
 - image: 'images/bsp_rendering.jpg'
   title: 'Welcome to the Thompson Lab!'
   content: '
-  <p><h3>We are part of the <a href="https://chemistry.ucmerced.edu/">Department of Chemistry & Chemical Biology</a> in the <a href="https://naturalsciences.ucmerced.edu/">School of Natural Sciences</a> at the <a href="https://www.ucmerced.edu/">University of California, Merced</a>.</h3></p>
+  <p><h3>We are part of the <a href="https://chemistry.ucmerced.edu/">Department of Chemistry & Biochemistry</a> in the <a href="https://naturalsciences.ucmerced.edu/">School of Natural Sciences</a> at the <a href="https://www.ucmerced.edu/">University of California, Merced</a>.</h3></p>
 
   <p><h3>Research in our laboratory is focused on understanding the relationship between the structure and function of biological macromolecules, with an emphasis on revealing how temperature modulates this relationship. To accomplish this, we are creating new experimental methods to measure the atomic structures of proteins and other biological molecules at their physiological temperatures and beyond, using X-ray crystallography and other techniques. Our goal is to use temperature as a tool to explore the conformational landscapes of complex molecules and identify the structural states that define their biological activities.</h3></p>
 
