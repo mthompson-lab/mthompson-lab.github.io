@@ -132,7 +132,7 @@
 
 
 - title: "**Comparing serial X-ray crystallography and microcrystal electron diffraction (MicroED) as methods for routine structure determination from small macromolecular crystals**"
-  citation: "Wolff AM, Young ID, Sierra RG, Brewster AS, Martynowycz MW, Nango E, Sugahara M, Nakane T, Ito K,
+  citation: "**Wolff AM**, Young ID, Sierra RG, Brewster AS, Martynowycz MW, Nango E, Sugahara M, Nakane T, Ito K,
 Aquila A, Bhowmick A, Biel JT, Carbajo S, Cohen AE, Cortez S, Gonzalez A, Hino T, Im D, Koralek JD, Kubo M,
 Lazarou TS, Nomura T, Owada S, Samelson A, Tanaka R, Tanaka T, Thompson EM, van den Bedem H, Woldeyes RA,
 Yumoto F, Zhao W, Tono K, Boutet S, Iwata S, Gonen T, Sauter NK, Fraser JS, **Thompson MC**. (2020) *IUCrJ*."
@@ -163,8 +163,6 @@ Yumoto F, Zhao W, Tono K, Boutet S, Iwata S, Gonen T, Sauter NK, Fraser JS, **Th
       url: https://lcls.slac.stanford.edu/instruments/mfx
     - name: SACLA XFEL
       url: http://xfel.riken.jp/eng/
-    - name: Celebratory Tweetstorm by first author Alex Wolff
-      url: https://twitter.com/LifeHasOrder/status/1172327493451145218
     - name: Celebratory Tweetstorm by corresponding author Michael Thompson
       url: https://twitter.com/mctucsf/status/1172334750205218816
 
@@ -214,7 +212,7 @@ Barlow KA, Ollikainen N, Jeon D, Kelly MJS, Fraser JS, Kortemme T. (2019) *Scien
       url: http://www.fraserlab.com/
 
 - title: "**Temperature-Jump Solution X-ray Scattering Reveals Distinct Motions in a Dynamic Enzyme**"
-  citation: "**Thompson MC**, Barad BA, Wolff AM, Cho HS, Schotte F, Schwarz DMC, Anfinrud P, Fraser JS. (2019) *Nature Chemistry*."
+  citation: "**Thompson MC**, Barad BA, **Wolff AM**, Cho HS, Schotte F, Schwarz DMC, Anfinrud P, Fraser JS. (2019) *Nature Chemistry*."
   date: 201810
   image: '/images/pub/thompson_2019.jpg'
   pmid: 31527847
