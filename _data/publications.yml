@@ -18,11 +18,11 @@
   citation: "Schuller M, Correy GJ, Gahbauer S, Fearon D, Wu T, Diaz RE, Young ID, Martins LC, Smith DH, Schulze-Gahmen U, Owens TW, Deshpande I, Merz GE, Thwin AC, Biel JT, Peters JK,
   Moritz M, Herrera N, Kratochvil HT, QCRG Structural Biology Consortium, Aimon A, Bennett JM, Brandao Neto J, Cohen AE, Dias A, Douangamath A, Dunnett L, Fedorov O, Ferla MP, Fuchs M, 
   Gorrie-Stone TJ, Holton JM, Johnson MG, Krojer T, Meigs G, Powell AJ, Rack JGM, Rangel VL, Russi S, Skyner RE, Smith CA, Soares AS, Wierman JL, Zhu K, Jura N, Ashworth A, Irwin J, 
-  **Thompson MC**, Gestwicki JE, von Delft F, Shoichet BK, Fraser JS, Ahel I. (2020) *Submitted - preprint available on bioRxiv*."
-  date: 202011
+  **Thompson MC**, Gestwicki JE, von Delft F, Shoichet BK, Fraser JS, Ahel I. (2021) *Science Advances*."
+  date: 202104
   image: '/images/pub/macrodomain_2020_1.png'
-  #pmid: 
-  #pmcid:
+  pmid: 33269349
+  pmcid: PMC7709169
   biorxiv: '2020.11.24.393405' 
   pdf: '/pdf/macrodomain_2020_1.pdf'
   links:
@@ -56,11 +56,11 @@
   Deshpande I, Liang J, Dickinson S, Nguyen HC, Chio CM, Merz GE, **Thompson MC**, Diwanji D, Schaefer K, Anand AA, Dobzinski N, Zha BS, Simoneau CR, Leon K, 
   White KM, Chi US, Gupta M, Jin M, Li F, Liu Y, Zhang K, Bulkley D, Sun M, Smith AM, Rizo AN, Moss F, Brilot AF, Pourmal S, Trenker R, Pospiech T, Gupta S, 
   Barsi-Rhyne B, Belyy V, Barile-Hill AW, Nock S, Liu Y, Krogan NJ, Ralston CY, Swaney DL, Garcia-Sastre A, Ott M, Vignuzzi M, 
-  Quantitative Biosciences Institute (QBI) Coronavirus Research Group Structural Biology Consortium, Walter P, Manglick A. (2020) *Science*."
+  Quantitative Biosciences Institute (QBI) Coronavirus Research Group Structural Biology Consortium, Walter P, Manglik A. (2020) *Science*."
   date: 202011
   image: '/images/pub/schoof_2020_1.png'
   pmid: 33154106
-  #pmcid:
+  pmcid: PMC7857409
   biorxiv: '2020.08.08.238469' 
   pdf: '/pdf/schoof_2020_1.pdf'
   links:
@@ -105,8 +105,8 @@
   citation: "Pan X, **Thompson M**, Zhang Y, Liu L, Fraser JS, Kelly MJS, Kortemme T. (2020) *Science*."
   date: '202008'
   image: '/images/pub/pan_2020.png'
-  pmid: '32855341'
-  # pmcid: ''
+  pmid: 32855341
+  pmcid: PMC7787817
   biorxiv: '2020.04.14.041772'
   pdf: '/pdf/pan_2020.pdf'
   links:
