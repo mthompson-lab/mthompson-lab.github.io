@@ -14,6 +14,22 @@
 #       url: http://mullinslab.ucsf.edu/
 #
 
+- title: "**Accurately positioning functional residues with robotics-inspired computational protein design**"
+  citation: "Krivacic C, Kundert K, Pan X, Pache RA, Liu L, Conchuir SO, Jeliazkov JR, GrayJJ, **Thompson M**, Fraser JS, Kortemme T. (2020) *Science*."
+  date: '202107'
+  image: '/images/pub/krivacic_2021.png'
+  pmid: 
+  pmcid: 
+  biorxiv: '2021.07.02.450934'
+  pdf: '/pdf/krivacic_2021.pdf'
+  links:
+    - name: Kortemme lab @ UC San Francisco
+      url: http://kortemmelab.ucsf.edu/
+    - name: Fraser lab @ UC San Francisco
+      url: http://www.fraserlab.com/
+    - name: Gray lab @ Johns Hopkins U
+      url: https://graylab.jhu.edu/
+
 - title: "**Fragment binding to the Nsp3 macrodomain of SARS-CoV-2 identified through crystallographic screening and computational docking**"
   citation: "Schuller M, Correy GJ, Gahbauer S, Fearon D, Wu T, Diaz RE, Young ID, Martins LC, Smith DH, Schulze-Gahmen U, Owens TW, Deshpande I, Merz GE, Thwin AC, Biel JT, Peters JK,
   Moritz M, Herrera N, Kratochvil HT, QCRG Structural Biology Consortium, Aimon A, Bennett JM, Brandao Neto J, Cohen AE, Dias A, Douangamath A, Dunnett L, Fedorov O, Ferla MP, Fuchs M, 
