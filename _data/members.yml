@@ -26,27 +26,41 @@
 
         In 2020, Mike was appointed as Assistant Professor in the [Department of Chemistry and Biochemistry](https://chemistry.ucmerced.edu/) at [UC Merced](https://www.ucmerced.edu/)."
 
-- name: Nathaniel Brown
-  image: /images/members/nat_brown.jpg
-  position: Junior Specialist
-  pronouns: he/him/his
-  email: nbrown13 (at) ucmerced.edu
-  description: "Nathaniel graduated with a post-baccalaureate in biology from Portland State University in 2019. Portland State University houses the Center for Life in Extreme Environments \
-  (CLEE), a research organization dedicated to multidisciplinary research into the science of extremophiles. At PSU, Nathaniel studied with Dr. Ken Stedman to conduct research in the molecular \
-  virology of archaeal viruses. Nathaniel’s undergraduate research experience was an excellent introduction to the biology of extremophile viruses and microbes, and it was a major factor in his \
-  decision to pursue a career researching thermal adaptation in proteins. <br/><br/>
+#- name: Nathaniel Brown
+#  image: /images/members/nat_brown.jpg
+#  position: Junior Specialist
+#  pronouns: he/him/his
+#  email: nbrown13 (at) ucmerced.edu
+#  description: "Nathaniel graduated with a post-baccalaureate in biology from Portland State University in 2019. Portland State University houses the Center for Life in Extreme Environments \
+#  (CLEE), a research organization dedicated to multidisciplinary research into the science of extremophiles. At PSU, Nathaniel studied with Dr. Ken Stedman to conduct research in the molecular \
+#  virology of archaeal viruses. Nathaniel’s undergraduate research experience was an excellent introduction to the biology of extremophile viruses and microbes, and it was a major factor in his \
+#  decision to pursue a career researching thermal adaptation in proteins. <br/><br/>
+#
+#Shortly after graduating from Portland State University, Nathaniel was hired by Dr. Sanjay Antony-Babu to work as a research assistant in the plant microbiomes lab at Texas A&M University. \
+#His research in the Antony-Babu lab included the community analysis of plant, soil, and fungal microbiomes using DNA extraction and sequencing protocols. Nathaniel also participated in \
+#interdisciplinary research investigating the biotic and abiotic factors controlling chemical communication between members of the maize holobiont. <br/><br/>
+#
+#Nathaniel joins the Thompson lab excited to bring together his previous research in extremophile microbiology and molecular biology. His diverse interests in chemical biology include the \
+#structural biology of proteins in diverse solvent environments, the dynamics of protein and RNA folding and misfolding, the thermal adaptations of microorganisms, the role of viruses in \
+#transferring ORFs and protein domains between members of a microbiome, and the regulatory biology of the cellular stress response."
 
-Shortly after graduating from Portland State University, Nathaniel was hired by Dr. Sanjay Antony-Babu to work as a research assistant in the plant microbiomes lab at Texas A&M University. \
-His research in the Antony-Babu lab included the community analysis of plant, soil, and fungal microbiomes using DNA extraction and sequencing protocols. Nathaniel also participated in \
-interdisciplinary research investigating the biotic and abiotic factors controlling chemical communication between members of the maize holobiont. <br/><br/>
+- name: Luisa Garcia Michel 
+  image: /images/members/luisa_garciamichel.png
+  position: Graduate Rotation Student (Fall 2021)
+  pronouns: she/her/ella
+  email: lgarciamichel (at) ucmerced.edu
+  orcid: 0000-0002-8513-7350
+  description: "Luisa earned her B.S. in Chemistry at the University of Mary in Bismarck, ND. She studied allosteric communication in ERK2 and its mutants using computational modeling \
+  and molecular simulations in Dr. Daniel A. Barr’s lab.  <br/><br/>
 
-Nathaniel joins the Thompson lab excited to bring together his previous research in extremophile microbiology and molecular biology. His diverse interests in chemical biology include the \
-structural biology of proteins in diverse solvent environments, the dynamics of protein and RNA folding and misfolding, the thermal adaptations of microorganisms, the role of viruses in \
-transferring ORFs and protein domains between members of a microbiome, and the regulatory biology of the cellular stress response."
+During her undergrad, she discovered her passion for teaching and research. She pioneered the Learning Assistant (LA) program for Chemistry classes and was involved in a variety of \
+language and science teaching opportunities. <br/><br/>
+
+In Fall 2021, Luisa joined the Thompson lab as UC Merced’s Chemistry and Biochemistry Ph.D. student."
 
 - name: Vincent Hernandez 
   image: /images/members/vincent_hernandez.png
-  position: REU Summer Intern
+  position: Undergraduate Student
   pronouns: he/him/his
   email: vhernandez65 (at) ucmerced.edu
   description: "Vincent is a current University of California, Merced undergraduate student pursuing a degree in Human Biology. He is interested in growing and learning in research and \
@@ -74,9 +88,20 @@ He joined the Thompson Lab in 2021 as a research specialist, and now works joint
 
 When he is not on the bench, Ralph enjoys hiking and camping. He used to be an avid badminton player but now he mostly plays volleyball. Also, he hangs out quite often with 3 dogs and 1 cat."
 
+- name: Dondis Moreland 
+  image: /images/members/dondis_moreland.jpg
+  position: Undergraduate Student
+  pronouns: she/her/hers
+  email: dmoreland2 (at) ucmerced.edu
+  description: "Dondis is a current undergraduate student at the University of California, Merced. She is currently a Chemical Science major and is interested in gaining knowledge and learning \
+  more about researching in a lab. This will be her first experience in a research laboratory and she is very excited to learn from her fellow colleagues and mentors. <br/><br/>
+
+After her undergraduate career, she plans to attend Dental School after her college career. When she is not working in a laboratory she loves doing community service with her church, working out, \
+going outside for a hike or run, and planting flowers."
+
 - name: Destini Nguyen 
   image: /images/members/destini_nguyen.jpg
-  position: REU Summer Intern
+  position: Undergraduate Student
   pronouns: she/her/ella
   email: dnguyen365 (at) ucmerced.edu
   description: "Destini started her pursuit of undergraduate research in mosquito abatement under the guidance of Dr. Colleen Naughton at UC Merced. \
@@ -100,7 +125,7 @@ and being an active member of the professional pre-health co-ed fraternity, Delt
 
 - name: Behnoush Seifinoferest
   image: /images/members/behnoush_seifinoferest.jpg
-  position: Graduate Student
+  position: Graduate Rotation Student (Fall 2021)
   pronouns: she/her/hers
   email: bseifinoferest (at) ucmerced.edu
   description: "Behnoush started her bachelor at Kharazmi University at 2010 and finished at 2014. She ranked 27 at the nationwide higher education exam in Iran among more than 16,000 chemistry students. \
