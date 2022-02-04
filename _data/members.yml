@@ -12,7 +12,7 @@
         where he was a research assistant in [Tom Alber](https://news.berkeley.edu/2014/04/04/berkeley-professor-thomas-alber-dies-at-60/)’s laboratory. \
         In the Alber lab, he worked on efforts to determine the structures of signaling proteins that are required for virulence in <em>Mycobacterium tuberculosis</em>. <br/><br/>
 
-        In 2014, he received his Ph.D. in [Biochemistry and Molecular Biology](http://bmsb.chem.ucla.edu/) from UCLA under the direction of [Dr. Todd Yeates](http://yeateslab.mbi.ucla.edu/). \
+        In 2014, he received his Ph.D. in [Biochemistry and Molecular Biology](http://bmsb.chem.ucla.edu/) from UCLA under the mentorship of [Todd Yeates](http://yeateslab.mbi.ucla.edu/). \
         As a graduate student, Mike investigated the role of conformational polymorphism in expanding the functional diversity of a \
         key family of proteins that define a widespread class of prokaryotic organelles collectively known as “bacterial microcompartments.” \
         His work revealed the role of conformational polymorphism in defining specialized functions of microcompartment shell proteins, including [ligand binding](/publications#25102080) and [allosteric regulation](/publications#25752492). <br/><br/>
@@ -46,9 +46,19 @@
 #structural biology of proteins in diverse solvent environments, the dynamics of protein and RNA folding and misfolding, the thermal adaptations of microorganisms, the role of viruses in \
 #transferring ORFs and protein domains between members of a microbiome, and the regulatory biology of the cellular stress response."
 
+- name: Alexander Deary 
+  image: /images/members/alexander_deary.jpg
+  position: Graduate Rotation Student (Spring 2022)
+  pronouns: he/him/his
+  email: adeary (at) ucmerced.edu
+  description: "Alexander is a current graduate student in the department of Chemistry and Chemical Biology (CCB) at UC Merced. He received his Bachelors of Science in Biochemistry \
+  with a minor in philosophy from UC San Diego where he worked in the Paesani Research Group on many-body computational models for group 1 ion hydration. He also previously conducted \
+  research on G-protein Coupled Receptors at The Bridge Institute at USC, working under Raymond Stevens. While there he studied the allosteric effects of sodium and other cations on \
+  GPCR signal transduction. His current research interests are protein structural biochemistry as well as small molecule and biologic drug design."
+
 - name: Luisa Garcia Michel 
   image: /images/members/luisa_garciamichel.png
-  position: Graduate Rotation Student (Fall 2021)
+  position: Graduate Student
   pronouns: she/her/ella
   email: lgarciamichel (at) ucmerced.edu
   orcid: 0000-0002-8513-7350
@@ -130,14 +140,24 @@ and being an active member of the professional pre-health co-ed fraternity, Delt
   position: Graduate Student
   pronouns: she/her/hers
   email: bseifinoferest (at) ucmerced.edu
-  description: "Behnoush started her bachelor at Kharazmi University at 2010 and finished at 2014. She ranked 27 at the nationwide higher education exam in Iran among more than 16,000 chemistry students. \
-  She started her Master at the university of Tehran at 2015 with focus on Pd-catalyzed synthesis. She got interested in medicinal chemistry and chemical biology after graduating and started working as a \
-  senior research assistant in the Endocrinology and Metabolism Research Center, Tehran University of Medical Sciences. She will start her work at Thompson lab at Fall 2021. <br/><br/>
+  description: "Behnoush developed interest in proteins at first in 2019 after obtaining a Master’s degree in Organic Chemistry from the University of Tehran, Iran. She adores the world \
+  of Organic Chemistry, but preferred to continue education on an interplay of chemistry and biology. She got admitted in the PhD program of the University of California, Merced on Fall 2021 \
+  and started working with the Thompson lab right away. She is currently a graduate researcher in the Thompson lab. Her research focus right now is using protein crystallization methods and X-ray \
+  Crystallography for assessing the effect of conformational dynamics of the enzymes on their function. These data can be used for designing de novo enzymes specified for organic reactions of interest."
 
-  Beside research, Behnoush is a huge Harry Potter fan and a Jane Austin fan. She loves literature, foreign languages and music."
+- name: Andree Souder 
+  image: /images/members/andree_souder.jpg
+  position: Undergraduate Student
+  pronouns: she/her/hers
+  email: asouder2 (at) ucmerced.edu
+  description: "Andree’s journey began very young when she was gifted a microscope after completing the fifth grade and spent that summer examining various leaves, insect parts, \
+  and fabrics under the microscope. Since then she has come far in her scientific career and studies Cellular and Molecular Biology but has found a growing excitement for Biochemistry. \
+  The Thompson Lab will be her first experience in a research laboratory (that is not her backyard). <br/><br/>
+
+When she is not studying for class or reading research papers, Andree spends her time hiking, painting, and playing with her dog."
 
 - name: Alexander Wolff
-  image: /images/members/DSC_8498_web.jpg
+  image: /images/members/alex_wolff.jpg
   position: Assistant Specialist
   pronouns: he/him/his
   email: awolff2 (at) ucmerced.edu
