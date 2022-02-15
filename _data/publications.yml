@@ -14,6 +14,27 @@
 #       url: http://mullinslab.ucsf.edu/
 #
 
+- title: "**The mechanisms of catalysis and ligand binding for the SARS-CoV-2 NSP3 macrodomain from neutron and X-ray diffraction at room temperature**"
+  citation: "Correy GJ, Kneller DW, Phillips G, Pant S, Russi S, Cohen AE, Meigs G, Holton JM, Gahbauer S, **Thompson MC**, Ashworth A, Coates L, Kovalevsky A, Meilleur F, Fraser JS. (2022) *Submitted - Preprint on bioRxiv*."
+  date: '202202'
+  image: '/images/pub/correy_2022.png'
+  pmid: 
+  pmcid: 
+  biorxiv: '2022.02.07.479477'
+  pdf: '/pdf/correy_2022_biorxiv.pdf'
+  links:
+    - name: Fraser Lab @ UC San Francisco
+      url: http://www.fraserlab.com/
+    - name: Ashworth Lab @ UC San Francisco
+      url: https://cancer.ucsf.edu/people/profiles/ashworth_alan
+    - name: Meilleur Lab @ NC State University
+      url: https://meilleur.wordpress.ncsu.edu/
+    - name: Oak Ridge National Lab
+      url: https://www.ornl.gov/
+    - name: Celebratory Tweetstorm by James Fraser
+      url: https://twitter.com/fraser_lab/status/1491633962015358976
+
+
 - title: "**Generation of bright monomeric red fluorescent proteins via computational design of enhanced chromophore packing**"
   citation: "Legault S, Fraser-Halberg DP, **McAnelly RL**, Eason MG, **Thompson MC**, Chica RA. (2022) *Chemical Science*."
   date: '202201'
