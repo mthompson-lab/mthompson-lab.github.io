@@ -34,24 +34,11 @@
     - name: Celebratory Tweetstorm by James Fraser
       url: https://twitter.com/fraser_lab/status/1491633962015358976
 
-
-- title: "**Generation of bright monomeric red fluorescent proteins via computational design of enhanced chromophore packing**"
-  citation: "Legault S, Fraser-Halberg DP, **McAnelly RL**, Eason MG, **Thompson MC**, Chica RA. (2022) *Chemical Science*."
-  date: '202201'
-  image: '/images/pub/legault_2022.png'
-  pmid: 
-  pmcid: 
-  biorxiv: 
-  pdf: '/pdf/legault_2022.pdf'
-  links:
-    - name: Chica Lab @ UOttawa
-      url: https://mysite.science.uottawa.ca/rchica/
-
 - title: "**Accurately positioning functional residues with robotics-inspired computational protein design**"
-  citation: "Krivacic C, Kundert K, Pan X, Pache RA, Liu L, Conchuir SO, Jeliazkov JR, Gray JJ, **Thompson MC**, Fraser JS, Kortemme T. (2021) *Submitted - Preprint on bioRxiv*."
-  date: '202107'
+  citation: "Krivacic C, Kundert K, Pan X, Pache RA, Liu L, Conchuir SO, Jeliazkov JR, Gray JJ, **Thompson MC**, Fraser JS, Kortemme T. (2022) *PNAS*."
+  date: '202203'
   image: '/images/pub/krivacic_2021.png'
-  pmid: 
+  pmid: 35254891
   pmcid: 
   biorxiv: '2021.07.02.450934'
   pdf: '/pdf/krivacic_2021.pdf'
@@ -62,6 +49,18 @@
       url: http://www.fraserlab.com/
     - name: Gray lab @ Johns Hopkins U
       url: https://graylab.jhu.edu/
+
+- title: "**Generation of bright monomeric red fluorescent proteins via computational design of enhanced chromophore packing**"
+  citation: "Legault S, Fraser-Halberg DP, **McAnelly RL**, Eason MG, **Thompson MC**, Chica RA. (2022) *Chemical Science*."
+  date: '202201'
+  image: '/images/pub/legault_2022.png'
+  pmid: 35222925
+  pmcid: PMC8809391
+  biorxiv: 
+  pdf: '/pdf/legault_2022.pdf'
+  links:
+    - name: Chica Lab @ UOttawa
+      url: https://mysite.science.uottawa.ca/rchica/
 
 - title: "**Fragment binding to the Nsp3 macrodomain of SARS-CoV-2 identified through crystallographic screening and computational docking**"
   citation: "Schuller M, Correy GJ, Gahbauer S, Fearon D, Wu T, Diaz RE, Young ID, Martins LC, Smith DH, Schulze-Gahmen U, Owens TW, Deshpande I, Merz GE, Thwin AC, Biel JT, Peters JK,
