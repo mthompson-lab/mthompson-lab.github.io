@@ -15,13 +15,13 @@
 #
 
 - title: "**The mechanisms of catalysis and ligand binding for the SARS-CoV-2 NSP3 macrodomain from neutron and X-ray diffraction at room temperature**"
-  citation: "Correy GJ, Kneller DW, Phillips G, Pant S, Russi S, Cohen AE, Meigs G, Holton JM, Gahbauer S, **Thompson MC**, Ashworth A, Coates L, Kovalevsky A, Meilleur F, Fraser JS. (2022) *Submitted - Preprint on bioRxiv*."
-  date: '202202'
+  citation: "Correy GJ, Kneller DW, Phillips G, Pant S, Russi S, Cohen AE, Meigs G, Holton JM, Gahbauer S, **Thompson MC**, Ashworth A, Coates L, Kovalevsky A, Meilleur F, Fraser JS. (2022) *Science Advances*."
+  date: '202205'
   image: '/images/pub/correy_2022.png'
   pmid: 
   pmcid: 
   biorxiv: '2022.02.07.479477'
-  pdf: '/pdf/correy_2022_biorxiv.pdf'
+  pdf: '/pdf/correy_2022.pdf'
   links:
     - name: Fraser Lab @ UC San Francisco
       url: http://www.fraserlab.com/
