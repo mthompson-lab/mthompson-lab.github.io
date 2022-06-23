@@ -40,6 +40,8 @@
     - 8CWF
     - 8CWG
     - 8CWH
+  data:
+    - '10.1101/2022.06.10.495662'
   links:
     - name: GitHub Repository
       url: https://github.com/mthompson-lab/Temperature-Jump-Crystallography_Analysis-for-Paper/
