@@ -10,8 +10,8 @@
 #- image: 'images/slide_asrc_cdi.jpg'
 #- image: 'images/slide_Da-Cui-ASRC-sunset.jpg'
 
-- image: 'images/slides/banner_image.jpg'
-- image: 'images/slides/xtal_banner.jpg'
-- image: 'images/slides/whiteboard.jpg'
-- image: 'images/slides/lig_banner.png'
-- image: 'images/slides/MFX_chamber.jpg'
+- image: 'images/slides/banner_image.webp'
+- image: 'images/slides/xtal_banner.webp'
+- image: 'images/slides/whiteboard.webp'
+- image: 'images/slides/lig_banner.webp'
+- image: 'images/slides/MFX_chamber.webp'
