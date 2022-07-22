@@ -14,14 +14,56 @@
 #       url: http://mullinslab.ucsf.edu/
 #
 
-- title: "**The mechanisms of catalysis and ligand binding for the SARS-CoV-2 NSP3 macrodomain from neutron and X-ray diffraction at room temperature**"
-  citation: "Correy GJ, Kneller DW, Phillips G, Pant S, Russi S, Cohen AE, Meigs G, Holton JM, Gahbauer S, **Thompson MC**, Ashworth A, Coates L, Kovalevsky A, Meilleur F, Fraser JS. (2022) *Submitted - Preprint on bioRxiv*."
-  date: '202202'
-  image: '/images/pub/correy_2022.png'
+- title: "**Mapping Protein Dynamics at High-Resolution with Temperature-Jump X-ray Crystallography**"
+  citation: "**Wolff AM**, Nango E, Young ID, Brewster AS, Kubo M, Nomura T, Sugahara M, Owada S, Barad BA, Ito K, Bhowmick A, Carbajo S, Hino T, Holton JM, Im D, O'Riordan LJ, Tanaka T, Tanaka R, Sierra RG, Yumoto F, Tono K, Iwata S, Sauter NK, Fraser JS, **Thompson MC**. (2022) *bioRxiv*."
+  date: 202206
+  image: '/images/pub/wolff_2022.jpg'
   pmid: 
   pmcid: 
+  biorxiv: '2022.06.10.495662'
+  pdf: '/pdf/wolff_2022_biorxiv.pdf'
+  pdbs:
+    - 8CVU
+    - 8CVV
+    - 8CVW
+    - 8CW0
+    - 8CW1
+    - 8CW3
+    - 8CW5
+    - 8CW6
+    - 8CW7
+    - 8CW8
+    - 8CWB
+    - 8CWC
+    - 8CWD
+    - 8CWE
+    - 8CWF
+    - 8CWG
+    - 8CWH
+  data:
+    - '10.11577/1873469'
+  links:
+    - name: GitHub Repository
+      url: https://github.com/mthompson-lab/Temperature-Jump-Crystallography_Analysis-for-Paper/
+    - name: Nango lab @ Tohoku University
+      url: http://www2.tagen.tohoku.ac.jp/lab/nango/html/
+    - name: Fraser lab @ UC San Francisco
+      url: http://www.fraserlab.com/
+    - name: SACLA XFEL
+      url: http://xfel.riken.jp/eng/
+    - name: BioSciences @ LBNL
+      url: https://biosciences.lbl.gov/
+    - name: Preprint Tweetstorm
+      url: https://twitter.com/MThompsonLab/status/1536365959174234112
+
+- title: "**The mechanisms of catalysis and ligand binding for the SARS-CoV-2 NSP3 macrodomain from neutron and X-ray diffraction at room temperature**"
+  citation: "Correy GJ, Kneller DW, Phillips G, Pant S, Russi S, Cohen AE, Meigs G, Holton JM, Gahbauer S, **Thompson MC**, Ashworth A, Coates L, Kovalevsky A, Meilleur F, Fraser JS. (2022) *Science Advances*."
+  date: '202205'
+  image: '/images/pub/correy_2022.png'
+  pmid: 35622909
+  pmcid: PMC9140965
   biorxiv: '2022.02.07.479477'
-  pdf: '/pdf/correy_2022_biorxiv.pdf'
+  pdf: '/pdf/correy_2022.pdf'
   links:
     - name: Fraser Lab @ UC San Francisco
       url: http://www.fraserlab.com/
@@ -39,7 +81,7 @@
   date: '202203'
   image: '/images/pub/krivacic_2021.png'
   pmid: 35254891
-  pmcid: 
+  pmcid: PMC8931229
   biorxiv: '2021.07.02.450934'
   pdf: '/pdf/krivacic_2021.pdf'
   links:
@@ -180,10 +222,7 @@
 
 
 - title: "**Comparing serial X-ray crystallography and microcrystal electron diffraction (MicroED) as methods for routine structure determination from small macromolecular crystals**"
-  citation: "**Wolff AM**, Young ID, Sierra RG, Brewster AS, Martynowycz MW, Nango E, Sugahara M, Nakane T, Ito K,
-Aquila A, Bhowmick A, Biel JT, Carbajo S, Cohen AE, Cortez S, Gonzalez A, Hino T, Im D, Koralek JD, Kubo M,
-Lazarou TS, Nomura T, Owada S, Samelson A, Tanaka R, Tanaka T, Thompson EM, van den Bedem H, Woldeyes RA,
-Yumoto F, Zhao W, Tono K, Boutet S, Iwata S, Gonen T, Sauter NK, Fraser JS, **Thompson MC**. (2020) *IUCrJ*."
+  citation: "**Wolff AM**, Young ID, Sierra RG, Brewster AS, Martynowycz MW, Nango E, Sugahara M, Nakane T, Ito K, Aquila A, Bhowmick A, Biel JT, Carbajo S, Cohen AE, Cortez S, Gonzalez A, Hino T, Im D, Koralek JD, Kubo M, Lazarou TS, Nomura T, Owada S, Samelson A, Tanaka R, Tanaka T, Thompson EM, van den Bedem H, Woldeyes RA, Yumoto F, Zhao W, Tono K, Boutet S, Iwata S, Gonen T, Sauter NK, Fraser JS, **Thompson MC**. (2020) *IUCrJ*."
   date: 201909
   image: '/images/pub/wolff_2020.jpg'
   pmid: 32148858
@@ -215,9 +254,7 @@ Yumoto F, Zhao W, Tono K, Boutet S, Iwata S, Gonen T, Sauter NK, Fraser JS, **Th
       url: https://twitter.com/mctucsf/status/1172334750205218816
 
 - title: "**Mix-and-inject XFEL crystallography reveals gated conformational dynamics during enzyme catalysis**"
-  citation: "Dasgupta M, Budday D, Oliveira SHP, Madzelan P, Marchany-Rivera D, Seravalli J, Hayes B, Sierra RG, Boutet S,
-Hunter MS, Alonso-Mori R, Batyuk A, Wierman J, Lyubimov A, Brewster AS, Sauter NK, Applegate GA, Tiwari VK, Berkowitz DB,
-**Thompson MC**, Cohen AE, Fraser JS, Wall ME, van den Bedem H, Wilson MA. (2019) *PNAS*."
+  citation: "Dasgupta M, Budday D, Oliveira SHP, Madzelan P, Marchany-Rivera D, Seravalli J, Hayes B, Sierra RG, Boutet S, Hunter MS, Alonso-Mori R, Batyuk A, Wierman J, Lyubimov A, Brewster AS, Sauter NK, Applegate GA, Tiwari VK, Berkowitz DB, **Thompson MC**, Cohen AE, Fraser JS, Wall ME, van den Bedem H, Wilson MA. (2019) *PNAS*."
   date: 201903
   image: '/images/pub/DasGupta_2019.jpg'
   pmid: 31801874
@@ -239,8 +276,7 @@ Hunter MS, Alonso-Mori R, Batyuk A, Wierman J, Lyubimov A, Brewster AS, Sauter N
       url: https://twitter.com/HvandenBedem/status/1086654403233214464
 
 - title: "**Computational design of a modular protein sense/response system**"
-  citation: "Glasgow AA, Huang Y, Mandell DJ, **Thompson M**, Ritterson R, Loshbaugh AL, Pellegrino J, Krivacic C, Pache RA,
-Barlow KA, Ollikainen N, Jeon D, Kelly MJS, Fraser JS, Kortemme T. (2019) *Science*."
+  citation: "Glasgow AA, Huang Y, Mandell DJ, **Thompson M**, Ritterson R, Loshbaugh AL, Pellegrino J, Krivacic C, Pache RA, Barlow KA, Ollikainen N, Jeon D, Kelly MJS, Fraser JS, Kortemme T. (2019) *Science*."
   date: 201904
   image: '/images/pub/glasgow_2019.jpg'
   pmid: 31754004
@@ -379,9 +415,7 @@ Barlow KA, Ollikainen N, Jeon D, Kelly MJS, Fraser JS, Kortemme T. (2019) *Scien
       url: https://yeateslab.mbi.ucla.edu/
   
 - title: "**Mapping the Conformational Landscape of a Dynamic Enzyme by Multitemperature and XFEL Crystallography**"
-  citation: "Keedy DA*, Kenner LR*, Warkentin M*, Woldeyes RA*, Hopkins JB, **Thompson MC**, Brewster AS,
-Van Benschoten AH, Baxter EL,  Uervirojnangkoorn M, McPhillips SE, Song J, Alonso-Mori R, Holton JM, Weis WI, Brunger AT,
-Soltis SM, Lemke H, Gonzalez A, Sauter NK, Cohen AE, van den Bedem H, Thorne RE, Fraser JS. (2015) *eLife*."
+  citation: "Keedy DA*, Kenner LR*, Warkentin M*, Woldeyes RA*, Hopkins JB, **Thompson MC**, Brewster AS, Van Benschoten AH, Baxter EL,  Uervirojnangkoorn M, McPhillips SE, Song J, Alonso-Mori R, Holton JM, Weis WI, Brunger AT, Soltis SM, Lemke H, Gonzalez A, Sauter NK, Cohen AE, van den Bedem H, Thorne RE, Fraser JS. (2015) *eLife*."
   date: 201505
   image: '/images/pub/keedy_2015_v2.jpg'
   pmid: 26422513
@@ -429,8 +463,7 @@ Soltis SM, Lemke H, Gonzalez A, Sauter NK, Cohen AE, van den Bedem H, Thorne RE,
       url: https://www.bbmb.iastate.edu/people/tom-bobik
 
 - title: "**Identification of a unique Fe-S cluster binding site in a glycyl-radical type microcompartment shell protein**"
-  citation: "**Thompson MC**, Wheatley NM, Jorda J, Sawaya MR, Gidaniyan SD, Ahmed H, Yang Z, McCarty KN, Whitelegge JP, 
-Yeates TO. (2014) *J. Mol. Bio*."
+  citation: "**Thompson MC**, Wheatley NM, Jorda J, Sawaya MR, Gidaniyan SD, Ahmed H, Yang Z, McCarty KN, Whitelegge JP,  Yeates TO. (2014) *J. Mol. Bio*."
   date: 201409
   image: '/images/pub/thompson_2014_1_v2.jpg'
   pmid: 25102080
