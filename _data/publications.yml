@@ -14,6 +14,36 @@
 #       url: http://mullinslab.ucsf.edu/
 #
 
+- title: "**Computational remodeling of an enzyme conformational landscape for altered substrate selectivity**"
+  citation: "St-Jacques AD, **Rodriguez JM**, Eason MG, Foster SM, Khan ST, Damry AM, Goto NK, **Thompson MC**, Chica RA. (2022) *bioRxiv*."
+  date: '202209'
+  image: '/images/pub/st-jacques_2022.png'
+  pmid: 
+  pmcid: 
+  biorxiv: '2022.09.16.508321'
+  pdf: '/pdf/st-jacques_2022.pdf'
+  pdbs:
+    - 8E9P
+    - 8E9K
+    - 8E9J
+    - 8E9Q
+    - 8E9L
+    - 8E9M
+    - 8E9N
+    - 8E9O
+    - 8E9R
+    - 8E9S
+    - 8E9C
+    - 8E9D
+  links:
+    - name: Chica Lab @ UOttawa
+      url: https://mysite.science.uottawa.ca/rchica/
+    - name: Goto Lab @ UOttawa
+      url: https://mysite.science.uottawa.ca/ngoto/
+    - name: Damry Lab @ UOttawa
+      url: https://damrylab.com/research/
+
+
 - title: "**Mapping Protein Dynamics at High-Resolution with Temperature-Jump X-ray Crystallography**"
   citation: "**Wolff AM**, Nango E, Young ID, Brewster AS, Kubo M, Nomura T, Sugahara M, Owada S, Barad BA, Ito K, Bhowmick A, Carbajo S, Hino T, Holton JM, Im D, O'Riordan LJ, Tanaka T, Tanaka R, Sierra RG, Yumoto F, Tono K, Iwata S, Sauter NK, Fraser JS, **Thompson MC**. (2022) *bioRxiv*."
   date: 202206
