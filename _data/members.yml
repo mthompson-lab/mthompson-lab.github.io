@@ -24,8 +24,9 @@
         Mike was supported by a postdoctoral fellowship from the [BioXFEL Science and Technology Center](http://www.bioxfel.org/) (NSF), \
         a Kirschstein NRSA (F32) fellowship from [NIH/NHLBI](http://www.nhlbi.nih.gov/), and an Independent Postdoctoral Research Award from the [UCSF Program in Breakthrough Biomedical Research (PBBR)](http://pbbr.ucsf.edu/). <br/><br/>
 
-        In 2020, Mike was appointed as Assistant Professor in the [Department of Chemistry and Biochemistry](https://chemistry.ucmerced.edu/) at [UC Merced](https://www.ucmerced.edu/). He is a member of the [NSF CREST-CCBM Center](https://ccbm.ucmerced.edu/) and \
-        affiliate member of the [NSF BioXFEL Science and Technology Center](https://www.bioxfel.org/). He is also co-PI of a Bioscience Campaign at the [Linac Coherent Light Source](https://lcls.slac.stanford.edu/)."
+        In 2020, Mike was appointed as Assistant Professor in the [Department of Chemistry and Biochemistry](https://chemistry.ucmerced.edu/) at [UC Merced](https://www.ucmerced.edu/). \
+        He is co-PI of a Bioscience Campaign at the [Linac Coherent Light Source](https://lcls.slac.stanford.edu/), senior research personnel on the [INSITE](https://bii-insite.org/) team, \
+        and a member of the [NSF CREST-CCBM Center](https://ccbm.ucmerced.edu/)."
 
 #- name: Nathaniel Brown
 #  image: /images/members/nat_brown.jpg
@@ -45,15 +46,28 @@
 #structural biology of proteins in diverse solvent environments, the dynamics of protein and RNA folding and misfolding, the thermal adaptations of microorganisms, the role of viruses in \
 #transferring ORFs and protein domains between members of a microbiome, and the regulatory biology of the cellular stress response."
 
+- name: Gyselle Castillo 
+  image: /images/members/gyselle_castillo.webp
+  position: Undergraduate Student (UCM-Mexico Summer Program)
+  pronouns: she/her/ella
+  email: ggodinezcastillo (at) ucmerced.edu
+  description: "Gyselle started her scientific journey when she was 15, since she developed a huge interest in medicine and chemistry at high school in Mexico City, \
+  and wanted to learn more through research and reading. <br/><br/>
+
+  She currently is a med student, and researcher assistant at an important university in Mexico, IPN; and has been trained in different basic experimentation techniques and models, \
+  such as RT-PCR, Western Blot, Inmunohistochemistry and ELISA. <br/><br/>
+  
+  On her free time, she enjoys exercising, painting, reading and hanging out with her friends."
+
 - name: Alexander Deary 
   image: /images/members/alexander_deary.webp
-  position: Graduate Rotation Student (Spring 2022)
+  position: Graduate Student
   pronouns: he/him/his
   email: adeary (at) ucmerced.edu
   description: "Alexander is a current graduate student in the department of Chemistry and Chemical Biology (CCB) at UC Merced. He received his Bachelors of Science in Biochemistry \
-  with a minor in philosophy from UC San Diego where he worked in the Paesani Research Group on many-body computational models for group 1 ion hydration. He also previously conducted \
-  research on G-protein Coupled Receptors at The Bridge Institute at USC, working under Raymond Stevens. While there he studied the allosteric effects of sodium and other cations on \
-  GPCR signal transduction. His current research interests are protein structural biochemistry as well as small molecule and biologic drug design."
+with a minor in philosophy from UC San Diego where he worked in the Paesani Research Group on many-body computational models for group 1 ion hydration. He also previously conducted \
+research on G-protein Coupled Receptors at The Bridge Institute at USC, working under Raymond Stevens. While there he studied the allosteric effects of sodium and other cations on \
+GPCR signal transduction. His current research interests are protein structural biochemistry as well as small molecule and biologic drug design."
 
 - name: Luisa Garcia Michel 
   image: /images/members/luisa_garciamichel.webp
@@ -62,20 +76,20 @@
   email: lgarciamichel (at) ucmerced.edu
   orcid: 0000-0002-8513-7350
   description: "Luisa earned her B.S. in Chemistry at the University of Mary in Bismarck, ND. She studied allosteric communication in ERK2 and its mutants using computational modeling \
-  and molecular simulations in Dr. Daniel A. Barr’s lab.  <br/><br/>
+and molecular simulations in Dr. Daniel A. Barr’s lab.  <br/><br/>
 
 During her undergrad, she discovered her passion for teaching and research. She pioneered the Learning Assistant (LA) program for Chemistry classes and was involved in a variety of \
 language and science teaching opportunities. <br/><br/>
 
 In Fall 2021, Luisa joined the Thompson lab as UC Merced’s Chemistry and Biochemistry Ph.D. student."
 
-- name: Vincent Hernandez 
-  image: /images/members/vincent_hernandez.webp
-  position: Undergraduate Student (UROC SOAR)
-  pronouns: he/him/his
-  email: vhernandez65 (at) ucmerced.edu
-  description: "Vincent is a current University of California, Merced undergraduate student pursuing a degree in Human Biology. He is interested in growing and learning in research and \
-  is joining the Thompson Lab to pursue these goals. "
+# - name: Vincent Hernandez 
+#   image: /images/members/vincent_hernandez.webp
+#   position: Undergraduate Student (UROC SOAR)
+#   pronouns: he/him/his
+#   email: vhernandez65 (at) ucmerced.edu
+#   description: "Vincent is a current University of California, Merced undergraduate student pursuing a degree in Human Biology. He is interested in growing and learning in research and \
+#   is joining the Thompson Lab to pursue these goals. "
 
 - name: Alec Martinez 
   image: /images/members/alec_martinez.jpg
@@ -87,7 +101,7 @@ In Fall 2021, Luisa joined the Thompson lab as UC Merced’s Chemistry and Bioch
 While working to complete his undergraduate degree, he developed an interest in secondary education in STEM fields. After graduating, \
 he started his educational career by teaching mathematics from 2020 - 2022. He is currently in the process of obtaining M.A. Teaching, Science Education. <br/><br/>
 
-In Fall 2022, he joined the Sukenik & Thompson lab as Lab Manager."
+In Fall 2022, he joined the Sukenik & Thompson labs as Lab Manager."
 
 # - name: Ralph McAnelly 
 #   image: /images/members/ralph_mcanelly.png
@@ -111,16 +125,16 @@ In Fall 2022, he joined the Sukenik & Thompson lab as Lab Manager."
 
 # When he is not on the bench, Ralph enjoys hiking and camping. He used to be an avid badminton player but now he mostly plays volleyball. Also, he hangs out quite often with 3 dogs and 1 cat."
 
-- name: Dondis Moreland 
-  image: /images/members/dondis_moreland.webp
-  position: Undergraduate Student (BioXFEL REU)
-  pronouns: she/her/hers
-  email: dmoreland2 (at) ucmerced.edu
-  description: "Dondis is a current undergraduate student at the University of California, Merced. She is currently a Chemical Science major and is interested in gaining knowledge and learning \
-  more about researching in a lab. This will be her first experience in a research laboratory and she is very excited to learn from her fellow colleagues and mentors. <br/><br/>
+# - name: Dondis Moreland 
+#   image: /images/members/dondis_moreland.webp
+#   position: Undergraduate Student (BioXFEL REU)
+#   pronouns: she/her/hers
+#   email: dmoreland2 (at) ucmerced.edu
+#   description: "Dondis is a current undergraduate student at the University of California, Merced. She is currently a Chemical Science major and is interested in gaining knowledge and learning \
+#   more about researching in a lab. This will be her first experience in a research laboratory and she is very excited to learn from her fellow colleagues and mentors. <br/><br/>
 
-After her undergraduate career, she plans to attend Dental School after her college career. When she is not working in a laboratory she loves doing community service with her church, working out, \
-going outside for a hike or run, and planting flowers."
+# After her undergraduate career, she plans to attend Dental School after her college career. When she is not working in a laboratory she loves doing community service with her church, working out, \
+# going outside for a hike or run, and planting flowers."
 
 # - name: Destini Nguyen 
 #   image: /images/members/destini_nguyen.jpg
@@ -158,14 +172,23 @@ going outside for a hike or run, and planting flowers."
 
 - name: Andree Souder 
   image: /images/members/andree_souder.webp
-  position: Undergraduate Student (BioXFEL REU)
+  position: BioXFEL REU Summer Fellow
   pronouns: she/her/hers
   email: asouder2 (at) ucmerced.edu
   description: "Andree’s journey began very young when she was gifted a microscope after completing the fifth grade and spent that summer examining various leaves, insect parts, \
   and fabrics under the microscope. Since then she has come far in her scientific career and studies Cellular and Molecular Biology but has found a growing excitement for Biochemistry. \
   The Thompson Lab will be her first experience in a research laboratory (that is not her backyard). <br/><br/>
 
-When she is not studying for class or reading research papers, Andree spends her time hiking, painting, and playing with her dog."
+  When she is not studying for class or reading research papers, Andree spends her time hiking, painting, and playing with her dog."
+
+- name: Asini Taka
+  image: /images/members/asini_taka.webp
+  position: Undergraduate Student (BioXFEL REU)
+  pronouns: she/her/hers
+  email: ataka (at) clarku.edu
+  description: "Asini is a current undergraduate student at Clark University located in Worcester, Massachusetts. She is a Biochemistry and Molecular Biology major \
+  looking to further her experience in research in the Thompson Lab. After her undergraduate study, she plans to further her study in medicine and research. In her \
+  spare time Asini enjoys playing the piano, skateboarding, and working out."
 
 - name: Alexander Wolff
   image: /images/members/alex_wolff.webp
@@ -181,11 +204,11 @@ When she is not studying for class or reading research papers, Andree spends her
 
   In the Thompson Lab, Alex aims to expand on initial temperature-jump experiments with a focus on developing computational methods to support such work."
 
-- name: Otto Thompson, Do.G.
-  image: /images/members/otto.webp
-  position: Moral support
-  pronouns: he/him/his
-  description: "Otto completed his interdisciplinary research training in 2005. His contributions to science since then have been numerous, \
-  including his development of innovative methods for detection of crumbs and other microscopic snacks from floor licking and sniffing \
-  data with very low signal-to-noise. He currently studies proteins (mainly chicken and beef, but sometimes lamb or salmon), and examines, \
-  at high resolution, the landscapes of orthopedic pet beds. His office hours are from 7AM-7:15AM daily - do not disturb during naps."
+# - name: Otto Thompson, Do.G.
+#   image: /images/members/otto.webp
+#   position: Moral support
+#   pronouns: he/him/his
+#   description: "Otto completed his interdisciplinary research training in 2005. His contributions to science since then have been numerous, \
+#   including his development of innovative methods for detection of crumbs and other microscopic snacks from floor licking and sniffing \
+#   data with very low signal-to-noise. He currently studies proteins (mainly chicken and beef, but sometimes lamb or salmon), and examines, \
+#   at high resolution, the landscapes of orthopedic pet beds. His office hours are from 7AM-7:15AM daily - do not disturb during naps."
