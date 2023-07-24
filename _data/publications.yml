@@ -13,6 +13,34 @@
 #     - name: 'Mullins lab'
 #       url: http://mullinslab.ucsf.edu/
 #
+- title: "**Structural characterization of ligand binding and pH-specific enzymatic activity of mouse Acidic Mammalian Chitinase**"
+  citation: "Diaz RE, Ecker AK, Correy GJ, Asthana P, Young ID, Faust B, **Thompson MC**, Seiple IB, Van Dyken SJ, Locksley RM, Fraser JS. (2023) *bioRxiv*."
+  date: '202306'
+  image: '/images/pub/diaz_2022.png'
+  pmid: 
+  pmcid: 
+  biorxiv: '2023.06.03.542675v2'
+  pdf: '/pdf/diaz_2023_biorxiv.pdf'
+  pdbs:
+    - 8FG5
+    - 8FG7
+    - 8GCA
+    - 8FRC
+    - 8FR9
+    - 8FRB
+    - 8FRD
+    - 8FRG
+    - 8FRA
+  links:
+    - name: Fraser Lab @ UC San Francisco
+      url: https://fraserlab.com/
+    - name: Seiple Lab @ UC San Francisco
+      url: https://seiplegroup.ucsf.edu/
+    - name: Van Dyken Lab @ Washington U in St. Louis
+      url: https://sites.wustl.edu/vandykenlab/
+    - name: Locksley Lab @ UC San Francisco
+      url: https://locksleylab.ucsf.edu/
+
 
 - title: "**Computational remodeling of an enzyme conformational landscape for altered substrate selectivity**"
   citation: "St-Jacques AD, **Rodriguez JM**, Eason MG, Foster SM, Khan ST, Damry AM, Goto NK, **Thompson MC**, Chica RA. (2022) *bioRxiv*."
