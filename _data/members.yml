@@ -4,7 +4,7 @@
   pronouns: he/him/his
   email: mthompson30 (at) ucmerced.edu
   scholar: KDvVpWYAAAAJ
-  twitter: MThompsonLab
+  twitter: 
   orcid: 0000-0002-6099-2027
   description: "Mike's longstanding research interest lies in understanding how proteins function by dynamically interconverting between different conformational states. <br/><br/>
 
@@ -46,18 +46,27 @@
 #structural biology of proteins in diverse solvent environments, the dynamics of protein and RNA folding and misfolding, the thermal adaptations of microorganisms, the role of viruses in \
 #transferring ORFs and protein domains between members of a microbiome, and the regulatory biology of the cellular stress response."
 
-- name: Gyselle Castillo 
-  image: /images/members/gyselle_castillo.webp
-  position: Undergraduate Student (UCM-Mexico Summer Program)
-  pronouns: she/her/ella
-  email: ggodinezcastillo (at) ucmerced.edu
-  description: "Gyselle started her scientific journey when she was 15, since she developed a huge interest in medicine and chemistry at high school in Mexico City, \
-  and wanted to learn more through research and reading. <br/><br/>
+# - name: Gyselle Castillo 
+#   image: /images/members/gyselle_castillo.webp
+#   position: Undergraduate Student (UCM-Mexico Summer Program)
+#   pronouns: she/her/ella
+#   email: ggodinezcastillo (at) ucmerced.edu
+#   description: "Gyselle started her scientific journey when she was 15, since she developed a huge interest in medicine and chemistry at high school in Mexico City, \
+#   and wanted to learn more through research and reading. <br/><br/>
 
-  She currently is a med student, and researcher assistant at an important university in Mexico, IPN; and has been trained in different basic experimentation techniques and models, \
-  such as RT-PCR, Western Blot, Inmunohistochemistry and ELISA. <br/><br/>
+#   She currently is a med student, and researcher assistant at an important university in Mexico, IPN; and has been trained in different basic experimentation techniques and models, \
+#   such as RT-PCR, Western Blot, Inmunohistochemistry and ELISA. <br/><br/>
   
-  On her free time, she enjoys exercising, painting, reading and hanging out with her friends."
+#   On her free time, she enjoys exercising, painting, reading and hanging out with her friends."
+
+- name: Octavio Gabriel Barron 
+  image: /images/members/octavio_barron.webp
+  position: Undergraduate Student
+  pronouns: he/him/his
+  email: obarron (at) ucmerced.edu
+  description: "Octavio is a current undergraduate student at UC Merced. He is currently working to complete his B.S. in Biology with an emphasis on Microbiology and Immunology and should hopefully complete it by Spring 2024. <br/><br/>
+  
+He joined the Thompson Lab in Fall of 2023 and hopes it will help him decide on what direction he wants to go after his undergrad. When he has free time, he enjoys fishing, skating on his longboard, and catching up with friends."
 
 - name: Alexander Deary 
   image: /images/members/alexander_deary.webp
@@ -106,9 +115,22 @@ protein Soybean Lipoxygenase (SLO) at biological temperatures."
 #   description: "Vincent is a current University of California, Merced undergraduate student pursuing a degree in Human Biology. He is interested in growing and learning in research and \
 #   is joining the Thompson Lab to pursue these goals. "
 
+- name: Leila Mahrokh 
+  image: /images/members/leila_mahrokh.webp
+  position: Fall 2023 Rotation Student
+  pronouns: she/her/hers
+  email: lmahrokh (at) ucmerced.edu
+  description: "Leila obtained her B.S. degree in Biology with a minor in Zoology from Razi University. She also earned a master’s degree of biophysics from University of Tehran. \
+When she was in last year of her PhD in biophysics she moved to USC as a visiting research scholar. The majority of her research has been conducted on the bacterial extracellular \
+electron transfer (EET) by linking intracellular reactions to external electrode surfaces in a bioelectrochemical fuel cell and a microscopic reactor. Meanwhile, she has been \
+passionate about knowing the structure and function of proteins as the building blocks of life. <br/><br/>
+
+Leila is currently a rotation student in the Thompson lab where she is employing cutting-edge techniques for X-ray protein crystallography to understand the structural dynamics \
+of the enzyme Soybean Lipoxygenase (SLO) at physiologic temperatures."
+
 - name: Alec Martinez 
   image: /images/members/alec_martinez.webp
-  position: Lab manager
+  position: Lab Manager
   pronouns: he/him/his
   email: amartinez296 (at) ucmerced.edu
   description: "Alec earned a B.S. in Chemical Sciences at UC Merced in 2020. <br/><br/>
@@ -187,7 +209,7 @@ In Fall 2022, he joined the Sukenik & Thompson labs as Lab Manager."
 
 - name: Andree Souder 
   image: /images/members/andree_souder.webp
-  position: BioXFEL REU Summer Fellow
+  position: Research Assistant
   pronouns: she/her/hers
   email: asouder2 (at) ucmerced.edu
   description: "Andree’s journey began very young when she was gifted a microscope after completing the fifth grade and spent that summer examining various leaves, insect parts, \
@@ -196,18 +218,18 @@ In Fall 2022, he joined the Sukenik & Thompson labs as Lab Manager."
 
   When she is not studying for class or reading research papers, Andree spends her time hiking, painting, and playing with her dog."
 
-- name: Asini Taka
-  image: /images/members/asini_taka.webp
-  position: Undergraduate Student (BioXFEL REU)
-  pronouns: she/her/hers
-  email: ataka (at) clarku.edu
-  description: "Asini is a current undergraduate student at Clark University located in Worcester, Massachusetts. She is a Biochemistry and Molecular Biology major \
-  looking to further her experience in research in the Thompson Lab. After her undergraduate study, she plans to further her study in medicine and research. In her \
-  spare time Asini enjoys playing the piano, skateboarding, and working out."
+# - name: Asini Taka
+#   image: /images/members/asini_taka.webp
+#   position: Undergraduate Student (BioXFEL REU)
+#   pronouns: she/her/hers
+#   email: ataka (at) clarku.edu
+#   description: "Asini is a current undergraduate student at Clark University located in Worcester, Massachusetts. She is a Biochemistry and Molecular Biology major \
+#   looking to further her experience in research in the Thompson Lab. After her undergraduate study, she plans to further her study in medicine and research. In her \
+#   spare time Asini enjoys playing the piano, skateboarding, and working out."
 
 - name: Alexander Wolff
   image: /images/members/alex_wolff.webp
-  position: Assistant Specialist
+  position: Research Specialist
   pronouns: he/him/his
   email: awolff2 (at) ucmerced.edu
   scholar: EqoaChsAAAAJ
