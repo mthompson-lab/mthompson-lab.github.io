@@ -13,6 +13,83 @@
 #     - name: 'Mullins lab'
 #       url: http://mullinslab.ucsf.edu/
 #
+- title: "**Mapping Protein Dynamics at High Spatial Resolution with Temperature-Jump X-ray Crystallography**"
+  citation: "**Wolff AM**, Nango E, Young ID, Brewster AS, Kubo M, Nomura T, Sugahara M, Owada S, Barad BA, Ito K, Bhowmick A, Carbajo S, Hino T, Holton JM, Im D, O'Riordan LJ, Tanaka T, Tanaka R, Sierra RG, Yumoto F, Tono K, Iwata S, Sauter NK, Fraser JS, **Thompson MC**. (2023) *Nature Chemistry*."
+  date: 202309
+  image: '/images/pub/wolff_2022.jpg'
+  pmid: 37723259
+  pmcid: 
+  biorxiv: '2022.06.10.495662'
+  pdf: '/pdf/wolff_2023.pdf'
+  pdbs:
+    - 8CVU
+    - 8CVV
+    - 8CVW
+    - 8CW0
+    - 8CW1
+    - 8CW3
+    - 8CW5
+    - 8CW6
+    - 8CW7
+    - 8CW8
+    - 8CWB
+    - 8CWC
+    - 8CWD
+    - 8CWE
+    - 8CWF
+    - 8CWG
+    - 8CWH
+  data:
+    - '10.11577/1873469'
+  links:
+    - name: GitHub Repository
+      url: https://github.com/mthompson-lab/Temperature-Jump-Crystallography_Analysis-for-Paper/
+    - name: Nango lab @ Tohoku University
+      url: http://www2.tagen.tohoku.ac.jp/lab/nango/html/
+    - name: Fraser lab @ UC San Francisco
+      url: http://www.fraserlab.com/
+    - name: SACLA XFEL
+      url: http://xfel.riken.jp/eng/
+    - name: BioSciences @ LBNL
+      url: https://biosciences.lbl.gov/
+    - name: Preprint Tweetstorm
+      url: https://twitter.com/MThompsonLab/status/1536365959174234112
+    - name: "In the Pipeline" by Derek Lowe
+      url: https://www.science.org/content/blog-post/warming-proteins-under-x-ray-beam
+
+- title: "**Changes in an Enzyme Ensemble During Catalysis Observed by High Resolution XFEL Crystallography**"
+  citation: Smith N, Dasgupta M, Wych DC, Dolamore C, Sierra RG, Lisova S, Marchany-Rivera D, Cohen AE, Boutet S, Hunter MS, Kupitz C, Poitevin F, Moss FR III, Brewster AS, Sauter NK, Young ID, **Wolff AM**, Tiwari VK, Kumar N, Berkowitz DB, Hadt RG, **Thompson MC**, Follmer AH, Wall ME, Wilson MA. (2023) *bioRxiv*."
+  date: 202308
+  image: '/images/pub/wolff_2022.jpg'
+  pmid: 
+  pmcid: 
+  biorxiv: '2023.08.15.553460'
+  pdf: '/pdf/smith_2023_biorxiv.png'
+  pdbs:
+    - 8TSF
+    - 8TSN
+    - 8TSX
+    - 8TSU
+    - 8TSY
+    - 8TSZ
+    - 8TT0
+    - 8TT1
+    - 8TT2
+    - 8TT4
+    - 8TT5
+  links:
+    - name: Wilson Lab @ UNL
+      url: https://redoxbiologycenter.unl.edu/markwilsonphd
+
+- title: "**Combining temperature perturbations with X-ray crystallography to study dynamic macromolecules: A thorough discussion of experimental methods**"
+  citation: "**Thompson MC** (2023) *Methods in Enzymology*."
+  date: 202308
+  image: '/images/pub/thompson_2023.png'
+  pmid: 37748829
+  pmcid: 
+  biorxiv: '2023.08.15.553460'
+  pdf: '/pdf/thompson_2023.pdf'
+
 - title: "**Structural characterization of ligand binding and pH-specific enzymatic activity of mouse Acidic Mammalian Chitinase**"
   citation: "Diaz RE, Ecker AK, Correy GJ, Asthana P, Young ID, Faust B, **Thompson MC**, Seiple IB, Van Dyken SJ, Locksley RM, Fraser JS. (2023) *bioRxiv*."
   date: '202306'
@@ -70,49 +147,6 @@
       url: https://mysite.science.uottawa.ca/ngoto/
     - name: Damry Lab @ UOttawa
       url: https://damrylab.com/research/
-
-
-- title: "**Mapping Protein Dynamics at High-Resolution with Temperature-Jump X-ray Crystallography**"
-  citation: "**Wolff AM**, Nango E, Young ID, Brewster AS, Kubo M, Nomura T, Sugahara M, Owada S, Barad BA, Ito K, Bhowmick A, Carbajo S, Hino T, Holton JM, Im D, O'Riordan LJ, Tanaka T, Tanaka R, Sierra RG, Yumoto F, Tono K, Iwata S, Sauter NK, Fraser JS, **Thompson MC**. (2022) *bioRxiv*."
-  date: 202206
-  image: '/images/pub/wolff_2022.jpg'
-  pmid: 
-  pmcid: 
-  biorxiv: '2022.06.10.495662'
-  pdf: '/pdf/wolff_2022_biorxiv.pdf'
-  pdbs:
-    - 8CVU
-    - 8CVV
-    - 8CVW
-    - 8CW0
-    - 8CW1
-    - 8CW3
-    - 8CW5
-    - 8CW6
-    - 8CW7
-    - 8CW8
-    - 8CWB
-    - 8CWC
-    - 8CWD
-    - 8CWE
-    - 8CWF
-    - 8CWG
-    - 8CWH
-  data:
-    - '10.11577/1873469'
-  links:
-    - name: GitHub Repository
-      url: https://github.com/mthompson-lab/Temperature-Jump-Crystallography_Analysis-for-Paper/
-    - name: Nango lab @ Tohoku University
-      url: http://www2.tagen.tohoku.ac.jp/lab/nango/html/
-    - name: Fraser lab @ UC San Francisco
-      url: http://www.fraserlab.com/
-    - name: SACLA XFEL
-      url: http://xfel.riken.jp/eng/
-    - name: BioSciences @ LBNL
-      url: https://biosciences.lbl.gov/
-    - name: Preprint Tweetstorm
-      url: https://twitter.com/MThompsonLab/status/1536365959174234112
 
 - title: "**The mechanisms of catalysis and ligand binding for the SARS-CoV-2 NSP3 macrodomain from neutron and X-ray diffraction at room temperature**"
   citation: "Correy GJ, Kneller DW, Phillips G, Pant S, Russi S, Cohen AE, Meigs G, Holton JM, Gahbauer S, **Thompson MC**, Ashworth A, Coates L, Kovalevsky A, Meilleur F, Fraser JS. (2022) *Science Advances*."
