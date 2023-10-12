@@ -89,7 +89,7 @@
 - title: "**Changes in an Enzyme Ensemble During Catalysis Observed by High Resolution XFEL Crystallography**"
   citation: Smith N, Dasgupta M, Wych DC, Dolamore C, Sierra RG, Lisova S, Marchany-Rivera D, Cohen AE, Boutet S, Hunter MS, Kupitz C, Poitevin F, Moss FR III, Brewster AS, Sauter NK, Young ID, **Wolff AM**, Tiwari VK, Kumar N, Berkowitz DB, Hadt RG, **Thompson MC**, Follmer AH, Wall ME, Wilson MA. (2023) *bioRxiv*."
   date: 202308
-  image: '/images/pub/smith_2023.jpg'
+  image: '/images/pub/smith_2023.png'
   pmid: 
   pmcid: 
   biorxiv: '2023.08.15.553460'
@@ -125,7 +125,7 @@
   image: '/images/pub/diaz_2023.png'
   pmid: 
   pmcid: 
-  biorxiv: '2023.06.03.542675v2'
+  biorxiv: '2023.06.03.542675'
   pdf: '/pdf/diaz_2023_biorxiv.pdf'
   pdbs:
     - 8FG5
@@ -202,8 +202,8 @@
   **Thompson MC**, Gestwicki JE, von Delft F, Shoichet BK, Fraser JS, Ahel I. (2021) *Science Advances*."
   date: 202104
   image: '/images/pub/macrodomain_2020_1.png'
-  pmid: 33269349
-  pmcid: PMC7709169
+  pmid: 33853786
+  pmcid: PMC8046379
   biorxiv: '2020.11.24.393405' 
   pdf: '/pdf/macrodomain_2020_1.pdf'
   links:
