@@ -1,7 +1,10 @@
 ---
-title: New Graduate Student, Leila! 
+title: Happy Birthday, Leila! 
 author: Behnoush Seifinoferest 
 layout: pages
 group: news
 ---
-Thompson lab is welcoming its new rotation graduate student, Leila Mahrokh. She will be with us during this fall semester. Hope she enjoys the research in our lab. Welcome, Leila.
+
+<span class="image fit"><img src="/images/2023-09-11-Leila-Birthday.jpg" alt="" class="img-responsive"></span>
+
+Today at the journal club we celebrated Leila's birthday. We wish you all the best in the new year of your life, Leila. 
