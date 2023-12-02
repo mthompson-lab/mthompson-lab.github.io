@@ -1,5 +1,5 @@
 ---
-title: HAppy Halloween! 
+title: Happy Halloween! 
 author: Behnoush Seifinoferest 
 layout: pages
 group: news
