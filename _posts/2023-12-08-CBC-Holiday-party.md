@@ -1,5 +1,5 @@
 ---
-title: Gingerbread House! 
+title: CBC Holiday Party! 
 author: Behnoush Seifinoferest 
 layout: pages
 group: news
