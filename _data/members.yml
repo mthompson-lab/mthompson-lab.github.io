@@ -70,14 +70,14 @@ to finding what she truly wants to do. <br/><br/>
 
 In her free time Sarah loves annoying the stray cats around her apartment with food and affection. She is also a huge fan of rock climbing and skating transition."
 
-- name: Octavio Gabriel Barron 
-  image: /images/members/octavio_barron.webp
-  position: Undergraduate Student
-  pronouns: he/him/his
-  email: obarron (at) ucmerced.edu
-  description: "Octavio is a current undergraduate student at UC Merced. He is currently working to complete his B.S. in Biology with an emphasis on Microbiology and Immunology and should hopefully complete it by Spring 2024. <br/><br/>
+# - name: Octavio Gabriel Barron 
+#   image: /images/members/octavio_barron.webp
+#   position: Undergraduate Student
+#   pronouns: he/him/his
+#   email: obarron (at) ucmerced.edu
+#   description: "Octavio is a current undergraduate student at UC Merced. He is currently working to complete his B.S. in Biology with an emphasis on Microbiology and Immunology and should hopefully complete it by Spring 2024. <br/><br/>
 
-He joined the Thompson Lab in Fall of 2023 and hopes it will help him decide on what direction he wants to go after his undergrad. When he has free time, he enjoys fishing, skating on his longboard, and catching up with friends."
+# He joined the Thompson Lab in Fall of 2023 and hopes it will help him decide on what direction he wants to go after his undergrad. When he has free time, he enjoys fishing, skating on his longboard, and catching up with friends."
 
 - name: Alexander Deary 
   image: /images/members/alexander_deary.webp
@@ -103,20 +103,20 @@ language and science teaching opportunities. <br/><br/>
 
 In Fall 2021, Luisa joined the Thompson lab as UC Merced’s Chemistry and Biochemistry Ph.D. student."
 
-- name: Alex Hernandez 
-  image: /images/members/alex_hernandez.webp
-  position: Summer 2023 Rotation Student G-RISE I-BioSTeP Fellow
-  pronouns: he/him/his
-  email: ahernandez693 (at) ucmerced.edu
-  orcid: 0000-0001-6426-9752
-  description: "Alex is a graduate student in the department of Chemistry and Biochemistry at UC Merced. <br/><br/>
+# - name: Alex Hernandez 
+#   image: /images/members/alex_hernandez.webp
+#   position: Summer 2023 Rotation Student G-RISE I-BioSTeP Fellow
+#   pronouns: he/him/his
+#   email: ahernandez693 (at) ucmerced.edu
+#   orcid: 0000-0001-6426-9752
+#   description: "Alex is a graduate student in the department of Chemistry and Biochemistry at UC Merced. <br/><br/>
 
-In 2022, Alex earned his B.S. in Biochemistry from California State University, Bakersfield.  As an undergraduate, he researched the bioremediation of contaminated oilfield \
-water using the microalgae <em>P. Tricornutum</em> under Dr. Jeroen T.F. Gillard. During his undergraduate research, he developed an interest in studying protein structure \
-and function for medical applications. <br/><br/>
+# In 2022, Alex earned his B.S. in Biochemistry from California State University, Bakersfield.  As an undergraduate, he researched the bioremediation of contaminated oilfield \
+# water using the microalgae <em>P. Tricornutum</em> under Dr. Jeroen T.F. Gillard. During his undergraduate research, he developed an interest in studying protein structure \
+# and function for medical applications. <br/><br/>
 
-Currently, Alex is a rotation student in the Thompson lab using innovative methods of X-ray protein crystallography in order to elucidate the conformational dynamics of the \
-protein Soybean Lipoxygenase (SLO) at biological temperatures."
+# Currently, Alex is a rotation student in the Thompson lab using innovative methods of X-ray protein crystallography in order to elucidate the conformational dynamics of the \
+# protein Soybean Lipoxygenase (SLO) at biological temperatures."
 
 # - name: Vincent Hernandez 
 #   image: /images/members/vincent_hernandez.webp
@@ -128,7 +128,7 @@ protein Soybean Lipoxygenase (SLO) at biological temperatures."
 
 - name: Leila Mahrokh 
   image: /images/members/leila_mahrokh.webp
-  position: Fall 2023 Rotation Student
+  position: Graduate Student
   pronouns: she/her/hers
   email: lmahrokh (at) ucmerced.edu
   description: "Leila obtained her B.S. degree in Biology with a minor in Zoology from Razi University. She also earned a master’s degree of biophysics from University of Tehran. \
@@ -220,7 +220,7 @@ In Fall 2022, he joined the Sukenik & Thompson labs as Lab Manager."
 
 - name: Andree Souder 
   image: /images/members/andree_souder.webp
-  position: Research Assistant
+  position: Graduate Student
   pronouns: she/her/hers
   email: asouder2 (at) ucmerced.edu
   description: "Andree’s journey began very young when she was gifted a microscope after completing the fifth grade and spent that summer examining various leaves, insect parts, \
@@ -245,12 +245,12 @@ In Fall 2022, he joined the Sukenik & Thompson labs as Lab Manager."
   email: awolff2 (at) ucmerced.edu
   scholar: EqoaChsAAAAJ
   orcid: 0000-0003-0474-7673
-  description: "Alex has broad scientific interests, but most of his work has focused on the use of X-ray methods to monitor protein dynamics. \
-  He earned a Ph.D. in the Fraser Lab at UCSF while working on this challenge. Specific focal points included the use of temperature jumps to \
-  perturb protein structures, monitoring perturbations during time-resolved X-ray experiments, and exploration of diffuse scattering as a source \
-  of information on protein structural dynamics.<br/><br/>
+  description: "Alex has a broad range of scientific interests, with a primary focus on using X-ray methods to investigate protein dynamics. He earned his Ph.D. in \
+  the Fraser Lab at UCSF, where he explored how temperature jumps can perturb protein structures and developed time-resolved X-ray experiments to monitor these changes. \
+  His work also examined diffuse scattering as a potential source of insight into protein structural dynamics.<br/><br/>
 
-  In the Thompson Lab, Alex aims to expand on initial temperature-jump experiments with a focus on developing computational methods to support such work."
+  In the Thompson Lab, Alex helped establish time-resolved temperature-jump methods and is now expanding their application to new systems that provide fundamental insights \
+  into enzymatic catalysis. His research also aims to further refine our understanding of solvent-protein interactions and their role in driving protein dynamics."
 
 # - name: Otto Thompson, Do.G.
 #   image: /images/members/otto.webp
