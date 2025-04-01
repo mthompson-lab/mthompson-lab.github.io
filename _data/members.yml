@@ -60,7 +60,7 @@
 #   On her free time, she enjoys exercising, painting, reading and hanging out with her friends."
 
 - name: Sarah Ashrafi 
-  image: /images/members/sarah_ashrafi.webp
+  image: /images/members/sarah_ashrafi_v2.webp
   position: Undergraduate Student
   pronouns: she/her/hers
   email: sashrafi (at) ucmerced.edu
@@ -80,14 +80,15 @@ In her free time Sarah loves annoying the stray cats around her apartment with f
 # He joined the Thompson Lab in Fall of 2023 and hopes it will help him decide on what direction he wants to go after his undergrad. When he has free time, he enjoys fishing, skating on his longboard, and catching up with friends."
 
 - name: Alexander Deary 
-  image: /images/members/alexander_deary.webp
+  image: /images/members/alexander_deary_v2.webp
   position: Graduate Student
   pronouns: he/him/his
   email: adeary (at) ucmerced.edu
-  description: "Alexander is a current graduate student in the department of Chemistry and Chemical Biology (CCB) at UC Merced. He received his Bachelors of Science in Biochemistry \
-with a minor in philosophy from UC San Diego where he worked in the Paesani Research Group on many-body computational models for group 1 ion hydration. He also previously conducted \
-research on G-protein Coupled Receptors at The Bridge Institute at USC, working under Raymond Stevens. While there he studied the allosteric effects of sodium and other cations on \
-GPCR signal transduction. His current research interests are protein structural biochemistry as well as small molecule and biologic drug design."
+  description: "Alexander is a current Ph.D candidate in the department of Chemistry and Biochemistry (CBC) at UC Merced. He received his Bachelors of Science in Biochemistry with \
+  a minor in philosophy from UC San Diego where he worked in the Paesani Research Group on their polarizable, many-body computational water model, specifically studying group 1 ion \
+  hydration. He also previously conducted research on G-protein Coupled Receptors at The Bridge Institute at USC, working under Raymond Stevens. While there he studied the allosteric \
+  effects of sodium and other cations on GPCR signal transduction. His current research interests are protein conformational dynamics and biochemistry, as well as small molecule and \
+  biologic drug design."
 
 - name: Zahra Fayaziboroujeni 
   image: /images/members/zahra_fayazi.webp
@@ -163,7 +164,7 @@ In Fall 2021, Luisa joined the Thompson lab as UC Merced’s Chemistry and Bioch
 #   is joining the Thompson Lab to pursue these goals. "
 
 - name: Leila Mahrokh 
-  image: /images/members/leila_mahrokh.webp
+  image: /images/members/leila_mahrokh_v2.webp
   position: Graduate Student
   pronouns: she/her/hers
   email: lmahrokh (at) ucmerced.edu
@@ -176,7 +177,7 @@ Leila is currently a rotation student in the Thompson lab where she is employing
 of the enzyme Soybean Lipoxygenase (SLO) at physiologic temperatures."
 
 - name: Alec Martinez 
-  image: /images/members/alec_martinez.webp
+  image: /images/members/alec_martinez_v2.webp
   position: Lab Manager
   pronouns: he/him/his
   email: amartinez296 (at) ucmerced.edu
