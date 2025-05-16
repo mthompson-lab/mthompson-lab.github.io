@@ -60,7 +60,7 @@
 #   On her free time, she enjoys exercising, painting, reading and hanging out with her friends."
 
 - name: Sarah Ashrafi 
-  image: /images/members/sarah_ashrafi.webp
+  image: /images/members/sarah_ashrafi_v2.webp
   position: Undergraduate Student
   pronouns: she/her/hers
   email: sashrafi (at) ucmerced.edu
@@ -70,24 +70,66 @@ to finding what she truly wants to do. <br/><br/>
 
 In her free time Sarah loves annoying the stray cats around her apartment with food and affection. She is also a huge fan of rock climbing and skating transition."
 
-- name: Octavio Gabriel Barron 
-  image: /images/members/octavio_barron.webp
-  position: Undergraduate Student
-  pronouns: he/him/his
-  email: obarron (at) ucmerced.edu
-  description: "Octavio is a current undergraduate student at UC Merced. He is currently working to complete his B.S. in Biology with an emphasis on Microbiology and Immunology and should hopefully complete it by Spring 2024. <br/><br/>
+# - name: Octavio Gabriel Barron 
+#   image: /images/members/octavio_barron.webp
+#   position: Undergraduate Student
+#   pronouns: he/him/his
+#   email: obarron (at) ucmerced.edu
+#   description: "Octavio is a current undergraduate student at UC Merced. He is currently working to complete his B.S. in Biology with an emphasis on Microbiology and Immunology and should hopefully complete it by Spring 2024. <br/><br/>
 
-He joined the Thompson Lab in Fall of 2023 and hopes it will help him decide on what direction he wants to go after his undergrad. When he has free time, he enjoys fishing, skating on his longboard, and catching up with friends."
+# He joined the Thompson Lab in Fall of 2023 and hopes it will help him decide on what direction he wants to go after his undergrad. When he has free time, he enjoys fishing, skating on his longboard, and catching up with friends."
 
 - name: Alexander Deary 
-  image: /images/members/alexander_deary.webp
+  image: /images/members/alexander_deary_v2.webp
   position: Graduate Student
   pronouns: he/him/his
   email: adeary (at) ucmerced.edu
-  description: "Alexander is a current graduate student in the department of Chemistry and Chemical Biology (CCB) at UC Merced. He received his Bachelors of Science in Biochemistry \
-with a minor in philosophy from UC San Diego where he worked in the Paesani Research Group on many-body computational models for group 1 ion hydration. He also previously conducted \
-research on G-protein Coupled Receptors at The Bridge Institute at USC, working under Raymond Stevens. While there he studied the allosteric effects of sodium and other cations on \
-GPCR signal transduction. His current research interests are protein structural biochemistry as well as small molecule and biologic drug design."
+  description: "Alexander is a current Ph.D candidate in the department of Chemistry and Biochemistry (CBC) at UC Merced. He received his Bachelors of Science in Biochemistry with \
+  a minor in philosophy from UC San Diego where he worked in the Paesani Research Group on their polarizable, many-body computational water model, specifically studying group 1 ion \
+  hydration. He also previously conducted research on G-protein Coupled Receptors at The Bridge Institute at USC, working under Raymond Stevens. While there he studied the allosteric \
+  effects of sodium and other cations on GPCR signal transduction. His current research interests are protein conformational dynamics and biochemistry, as well as small molecule and \
+  biologic drug design."
+
+- name: Zahra Fayaziboroujeni 
+  image: /images/members/zahra_fayazi.webp
+  position: Graduate Student
+  pronouns: she/her/hers
+  email: zfayaziboroujeni (at) ucmerced.edu
+  description: "Zahra earned a B.S. in Cellular and Molecular Biology with a focus on Biotechnology from Alzahra University in 2016. She then completed her Master’s degree in Medical \
+  Biotechnology from Tehran University of Medical Sciences, where her research focused on improving the purity and efficiency of hyaluronic acid using microfluidic methods. In the \
+  Fall of 2022, she joined the Ph.D. program in Cellular and Molecular Biology at UC Merced. <br/><br/>
+
+Throughout her graduate studies, Zahra has gained valuable experience in protein purification, flow cytometry techniques, and advanced data analysis. Through this work, she developed \
+a deep interest in protein structure and function. She is currently a graduate researcher in the Thompson Lab, focusing on protein crystallization and X-ray crystallography to assess \
+the effects of distal mutations derived from directed evolution in Kemp Eliminase on the enzyme’s structure and function."
+
+- name: Edie Gollub 
+  image: /images/members/placeholder.webp
+  position: Undergraduate Student
+  pronouns: she/her/hers
+  email: egollub (at) ucmerced.edu
+  description:
+
+- name: Emma Gomez 
+  image: /images/members/emma_gomez.webp
+  position: Undergraduate Student
+  pronouns: she/her/hers
+  email: egomez89 (at) ucmerced.edu
+  description: "Emma is a current undergrad at UC Merced and has always found the study of sciences fascinating. Ever since she took Biochemistry with Dr. Thompson, she has been \
+  interested in the biochemical pathways and the relationship between structure and function in enzymes. The work she has done thus far has opened her eyes to the possibilities \
+  that the field of structural biology has to offer. She is eager to explore this world of research and see where it leads her."
+
+- name: Azeem Horani 
+  image: /images/members/azeem_horani.webp
+  position: Graduate Student
+  pronouns: he/him/his
+  email: ahorani (at) ucmerced.edu
+  orcid: 0009-0004-5218-3686
+  description:  "Azeem earned his Bachelors of Science in Biochemistry in 2023 from California State University, Fullerton where he worked with the Keppetipola Research Lab on \
+  studying the localization and post-translational modifications in Polypyrimidine Tract Binding Protein 1, an RNA binding protein. <br/><br/>
+
+Azeem joined the Quantitative and Systems Biology (QSB) Ph.D. program in 2023 at UC Merced where he continued researching his interest in proteomics. He joined the Thompson Lab \
+in Fall 2024 and is investigating the structure of the Soybean Lipoxygenase active site."
 
 - name: Luisa Garcia Michel 
   image: /images/members/luisa_garciamichel.webp
@@ -103,20 +145,20 @@ language and science teaching opportunities. <br/><br/>
 
 In Fall 2021, Luisa joined the Thompson lab as UC Merced’s Chemistry and Biochemistry Ph.D. student."
 
-- name: Alex Hernandez 
-  image: /images/members/alex_hernandez.webp
-  position: Summer 2023 Rotation Student G-RISE I-BioSTeP Fellow
-  pronouns: he/him/his
-  email: ahernandez693 (at) ucmerced.edu
-  orcid: 0000-0001-6426-9752
-  description: "Alex is a graduate student in the department of Chemistry and Biochemistry at UC Merced. <br/><br/>
+# - name: Alex Hernandez 
+#   image: /images/members/alex_hernandez.webp
+#   position: Summer 2023 Rotation Student G-RISE I-BioSTeP Fellow
+#   pronouns: he/him/his
+#   email: ahernandez693 (at) ucmerced.edu
+#   orcid: 0000-0001-6426-9752
+#   description: "Alex is a graduate student in the department of Chemistry and Biochemistry at UC Merced. <br/><br/>
 
-In 2022, Alex earned his B.S. in Biochemistry from California State University, Bakersfield.  As an undergraduate, he researched the bioremediation of contaminated oilfield \
-water using the microalgae <em>P. Tricornutum</em> under Dr. Jeroen T.F. Gillard. During his undergraduate research, he developed an interest in studying protein structure \
-and function for medical applications. <br/><br/>
+# In 2022, Alex earned his B.S. in Biochemistry from California State University, Bakersfield.  As an undergraduate, he researched the bioremediation of contaminated oilfield \
+# water using the microalgae <em>P. Tricornutum</em> under Dr. Jeroen T.F. Gillard. During his undergraduate research, he developed an interest in studying protein structure \
+# and function for medical applications. <br/><br/>
 
-Currently, Alex is a rotation student in the Thompson lab using innovative methods of X-ray protein crystallography in order to elucidate the conformational dynamics of the \
-protein Soybean Lipoxygenase (SLO) at biological temperatures."
+# Currently, Alex is a rotation student in the Thompson lab using innovative methods of X-ray protein crystallography in order to elucidate the conformational dynamics of the \
+# protein Soybean Lipoxygenase (SLO) at biological temperatures."
 
 # - name: Vincent Hernandez 
 #   image: /images/members/vincent_hernandez.webp
@@ -127,20 +169,20 @@ protein Soybean Lipoxygenase (SLO) at biological temperatures."
 #   is joining the Thompson Lab to pursue these goals. "
 
 - name: Leila Mahrokh 
-  image: /images/members/leila_mahrokh.webp
-  position: Fall 2023 Rotation Student
+  image: /images/members/leila_mahrokh_v2.webp
+  position: Graduate Student
   pronouns: she/her/hers
   email: lmahrokh (at) ucmerced.edu
-  description: "Leila obtained her B.S. degree in Biology with a minor in Zoology from Razi University. She also earned a master’s degree of biophysics from University of Tehran. \
-When she was in last year of her PhD in biophysics she moved to USC as a visiting research scholar. The majority of her research has been conducted on the bacterial extracellular \
-electron transfer (EET) by linking intracellular reactions to external electrode surfaces in a bioelectrochemical fuel cell and a microscopic reactor. Meanwhile, she has been \
-passionate about knowing the structure and function of proteins as the building blocks of life. <br/><br/>
+  description: "Leila obtained her B.S. degree in Biology with a minor in Zoology from Razi University and also earned a master's degree in Biophysics from the University of Tehran. \
+  During her final year of PhD studies in Biophysics, she moved to USC as a visiting research scholar. The majority of her research has been conducted on bacterial extracellular electron \
+  transfer (EET), linking intracellular reactions to external electrode surfaces in a bioelectrochemical fuel cell and a microscopic reactor before joining the Chemical Biology and \
+  Chemistry (CBC) program at UC Merced, as in Fall 2023. Additionally, she has a strong passion for understanding the structure and function of proteins, which are the building blocks of life. <br/><br/>
 
-Leila is currently a rotation student in the Thompson lab where she is employing cutting-edge techniques for X-ray protein crystallography to understand the structural dynamics \
-of the enzyme Soybean Lipoxygenase (SLO) at physiologic temperatures."
+Leila is currently a graduate student in the Thompson lab, where she employs a variety of cutting-edge techniques, including NMR, EPR, and X-ray protein crystallography, to investigate \
+the structural dynamics of the enzyme Human CLK1 at physiological temperatures."
 
 - name: Alec Martinez 
-  image: /images/members/alec_martinez.webp
+  image: /images/members/alec_martinez_v2.webp
   position: Lab Manager
   pronouns: he/him/his
   email: amartinez296 (at) ucmerced.edu
@@ -219,15 +261,16 @@ In Fall 2022, he joined the Sukenik & Thompson labs as Lab Manager."
   Crystallography for assessing the effect of conformational dynamics of the enzymes on their function. These data can be used for designing de novo enzymes specified for organic reactions of interest."
 
 - name: Andree Souder 
-  image: /images/members/andree_souder.webp
-  position: Research Assistant
+  image: /images/members/andree_souder_v2.webp
+  position: Graduate Student
   pronouns: she/her/hers
   email: asouder2 (at) ucmerced.edu
-  description: "Andree’s journey began very young when she was gifted a microscope after completing the fifth grade and spent that summer examining various leaves, insect parts, \
-  and fabrics under the microscope. Since then she has come far in her scientific career and studies Cellular and Molecular Biology but has found a growing excitement for Biochemistry. \
-  The Thompson Lab will be her first experience in a research laboratory (that is not her backyard). <br/><br/>
+  description: "Andree earned her Bachelor’s degree from UCM in 2023 in Molecular and Cellular Biology. During that time, she worked in the Thompson Lab as an undergraduate researcher conducting an \
+  independent research project on drug discovery potentials on Cyclin Dependent Kinase 2, by exploring its previously lesser known active and inactive conformations. Upon graduation, she continued \
+  the CDK2 project in the Thompson Lab as a research assistant for a year before ultimately deciding that UC Merced was the perfect path for her PhD in Chemistry and Biochemistry. <br/><br/>
 
-  When she is not studying for class or reading research papers, Andree spends her time hiking, painting, and playing with her dog."
+  As a PhD student, Andree now studies temperature sensing proteins in the CMGC kinase family to investigate the mechanisms behind their temperature-sensing ability from a structural perspective. \
+  This work encompasses a lot of Andree’s work from her undergrad to the present and utilizes the skills she’s picked up along the way while expanding her skillset."
 
 # - name: Asini Taka
 #   image: /images/members/asini_taka.webp
@@ -245,12 +288,12 @@ In Fall 2022, he joined the Sukenik & Thompson labs as Lab Manager."
   email: awolff2 (at) ucmerced.edu
   scholar: EqoaChsAAAAJ
   orcid: 0000-0003-0474-7673
-  description: "Alex has broad scientific interests, but most of his work has focused on the use of X-ray methods to monitor protein dynamics. \
-  He earned a Ph.D. in the Fraser Lab at UCSF while working on this challenge. Specific focal points included the use of temperature jumps to \
-  perturb protein structures, monitoring perturbations during time-resolved X-ray experiments, and exploration of diffuse scattering as a source \
-  of information on protein structural dynamics.<br/><br/>
+  description: "Alex has a broad range of scientific interests, with a primary focus on using X-ray methods to investigate protein dynamics. He earned his Ph.D. in \
+  the Fraser Lab at UCSF, where he explored how temperature jumps can perturb protein structures and developed time-resolved X-ray experiments to monitor these changes. \
+  His work also examined diffuse scattering as a potential source of insight into protein structural dynamics.<br/><br/>
 
-  In the Thompson Lab, Alex aims to expand on initial temperature-jump experiments with a focus on developing computational methods to support such work."
+  In the Thompson Lab, Alex helped establish time-resolved temperature-jump methods and is now expanding their application to new systems that provide fundamental insights \
+  into enzymatic catalysis. His research also aims to further refine our understanding of solvent-protein interactions and their role in driving protein dynamics."
 
 # - name: Otto Thompson, Do.G.
 #   image: /images/members/otto.webp

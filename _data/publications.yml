@@ -13,8 +13,78 @@
 #     - name: 'Mullins lab'
 #       url: http://mullinslab.ucsf.edu/
 #
+
+
+- title: "**The C-terminal Region of D-DT Regulates Molecular Recognition for Protein–Ligand Complexes**"
+  citation: Parkins A, Pilien AVR, **Wolff AM**, Argueta C, Vargas J, Sadeghi S, Franz AH, **Thompson MC**, Pantouris G. (2024) *Journal of Medicinal Chemistry*."
+  date: 202404
+  image: '/images/pub/parkins_2024.jpeg'
+  pmid: 38670943
+  pmcid: 
+  biorxiv: 
+  pdf: '/pdf/parkins_2024.pdf'
+  pdbs:
+    - 8VDY
+    - 8VFK
+    - 8VFL
+    - 8VFN
+    - 8VFO
+    - 8VFW
+    - 8VG7
+    - 8VG8 
+  links:
+    - name: Pantouris Lab @ University of the Pacific
+      url: https://sites.google.com/view/pantouris-lab/home
+
+
+- title: "**Design of Efficient Artificial Enzymes Using Crystallographically Enhanced Backbone Sampling**"
+  citation: Rakotoharisoa RV, **Seifinoferest B**, Zarifi N, Miller JDM, **Rodriguez JM**, **Thompson MC**, Chica RA. (2024) *JACS*."
+  date: 202403
+  image: '/images/pub/rakotoharisoa_2024.jpeg'
+  pmid: 38532610
+  pmcid: 
+  biorxiv: '2023.11.01.564846'
+  pdf: '/pdf/rakotoharisoa_2024.pdf'
+  pdbs:
+    - 8USE
+    - 8USF
+    - 8USG
+    - 8USH
+    - 8USI
+    - 8USJ
+    - 8USK
+    - 8USL
+  links:
+    - name: Chica Lab @ UOttawa
+      url: https://mysite.science.uottawa.ca/rchica/
+
+
+- title: "**Changes in an Enzyme Ensemble During Catalysis Observed by High Resolution XFEL Crystallography**"
+  citation: Smith N, Dasgupta M, Wych DC, Dolamore C, Sierra RG, Lisova S, Marchany-Rivera D, Cohen AE, Boutet S, Hunter MS, Kupitz C, Poitevin F, Moss FR III, Mittan-Moreau DW, Brewster AS, Sauter NK, Young ID, **Wolff AM**, Tiwari VK, Kumar N, Berkowitz DB, Hadt RG, **Thompson MC**, Follmer AH, Wall ME, Wilson MA. (2024) *Science Advances*."
+  date: 202403
+  image: '/images/pub/smith_2023.png'
+  pmid: 37645800
+  pmcid: PMC10462001
+  biorxiv: '2023.08.15.553460'
+  pdf: '/pdf/smith_2024_SciAdv.pdf'
+  pdbs:
+    - 8TSF
+    - 8TSN
+    - 8TSX
+    - 8TSU
+    - 8TSY
+    - 8TSZ
+    - 8TT0
+    - 8TT1
+    - 8TT2
+    - 8TT4
+    - 8TT5
+  links:
+    - name: Wilson Lab @ UNL
+      url: https://redoxbiologycenter.unl.edu/markwilsonphd
+
 - title: "**Computational remodeling of an enzyme conformational landscape for altered substrate selectivity**"
-  citation: "St-Jacques AD, **Rodriguez JM**, Eason MG, Foster SM, Khan ST, Damry AM, Goto NK, **Thompson MC**, Chica RA. (2022) *Nature Communications*."
+  citation: "St-Jacques AD, **Rodriguez JM**, Eason MG, Foster SM, Khan ST, Damry AM, Goto NK, **Thompson MC**, Chica RA. (2023) *Nature Communications*."
   date: '202309'
   image: '/images/pub/st-jacques_2022.png'
   pmid: 37770431
@@ -47,7 +117,7 @@
   date: 202309
   image: '/images/pub/wolff_2022.jpg'
   pmid: 37723259
-  pmcid: 
+  pmcid: PMC10624634
   biorxiv: '2022.06.10.495662'
   pdf: '/pdf/wolff_2023.pdf'
   pdbs:
@@ -71,6 +141,8 @@
   data:
     - '10.11577/1873469'
   links:
+    - name: In the Pipeline by Derek Lowe
+      url: https://www.science.org/content/blog-post/warming-proteins-under-x-ray-beam
     - name: GitHub Repository
       url: https://github.com/mthompson-lab/Temperature-Jump-Crystallography_Analysis-for-Paper/
     - name: Nango lab @ Tohoku University
@@ -83,50 +155,16 @@
       url: https://biosciences.lbl.gov/
     - name: Preprint Tweetstorm
       url: https://twitter.com/MThompsonLab/status/1536365959174234112
-    - name: In the Pipeline by Derek Lowe
-      url: https://www.science.org/content/blog-post/warming-proteins-under-x-ray-beam
 
-- title: "**Changes in an Enzyme Ensemble During Catalysis Observed by High Resolution XFEL Crystallography**"
-  citation: Smith N, Dasgupta M, Wych DC, Dolamore C, Sierra RG, Lisova S, Marchany-Rivera D, Cohen AE, Boutet S, Hunter MS, Kupitz C, Poitevin F, Moss FR III, Brewster AS, Sauter NK, Young ID, **Wolff AM**, Tiwari VK, Kumar N, Berkowitz DB, Hadt RG, **Thompson MC**, Follmer AH, Wall ME, Wilson MA. (2023) *bioRxiv*."
-  date: 202308
-  image: '/images/pub/smith_2023.png'
-  pmid: 
-  pmcid: 
-  biorxiv: '2023.08.15.553460'
-  pdf: '/pdf/smith_2023_biorxiv.png'
-  pdbs:
-    - 8TSF
-    - 8TSN
-    - 8TSX
-    - 8TSU
-    - 8TSY
-    - 8TSZ
-    - 8TT0
-    - 8TT1
-    - 8TT2
-    - 8TT4
-    - 8TT5
-  links:
-    - name: Wilson Lab @ UNL
-      url: https://redoxbiologycenter.unl.edu/markwilsonphd
-
-- title: "**Combining temperature perturbations with X-ray crystallography to study dynamic macromolecules: A thorough discussion of experimental methods**"
-  citation: "**Thompson MC** (2023) *Methods in Enzymology*."
-  date: 202308
-  image: '/images/pub/thompson_2023.png'
-  pmid: 37748829
-  pmcid: 
-  biorxiv: '2023.08.15.553460'
-  pdf: '/pdf/thompson_2023.pdf'
 
 - title: "**Structural characterization of ligand binding and pH-specific enzymatic activity of mouse Acidic Mammalian Chitinase**"
-  citation: "Diaz RE, Ecker AK, Correy GJ, Asthana P, Young ID, Faust B, **Thompson MC**, Seiple IB, Van Dyken SJ, Locksley RM, Fraser JS. (2023) *bioRxiv*."
-  date: '202306'
+  citation: "Diaz RE, Ecker AK, Correy GJ, Asthana P, Young ID, Faust B, **Thompson MC**, Seiple IB, Van Dyken SJ, Locksley RM, Fraser JS. (2023) *eLife*."
+  date: '202308'
   image: '/images/pub/diaz_2023.png'
   pmid: 
   pmcid: 
   biorxiv: '2023.06.03.542675'
-  pdf: '/pdf/diaz_2023_biorxiv.pdf'
+  pdf: '/pdf/diaz_2023_march2024update.pdf'
   pdbs:
     - 8FG5
     - 8FG7
@@ -146,6 +184,16 @@
       url: https://sites.wustl.edu/vandykenlab/
     - name: Locksley Lab @ UC San Francisco
       url: https://locksleylab.ucsf.edu/
+
+- title: "**Combining temperature perturbations with X-ray crystallography to study dynamic macromolecules: A thorough discussion of experimental methods**"
+  citation: "**Thompson MC** (2023) *Methods in Enzymology*."
+  date: 202308
+  image: '/images/pub/thompson_2023.png'
+  pmid: 37748829
+  pmcid: 
+  biorxiv: 
+  pdf: '/pdf/thompson_2023.pdf'
+
 
 - title: "**The mechanisms of catalysis and ligand binding for the SARS-CoV-2 NSP3 macrodomain from neutron and X-ray diffraction at room temperature**"
   citation: "Correy GJ, Kneller DW, Phillips G, Pant S, Russi S, Cohen AE, Meigs G, Holton JM, Gahbauer S, **Thompson MC**, Ashworth A, Coates L, Kovalevsky A, Meilleur F, Fraser JS. (2022) *Science Advances*."
