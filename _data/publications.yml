@@ -13,7 +13,22 @@
 #     - name: 'Mullins lab'
 #       url: http://mullinslab.ucsf.edu/
 #
-
+- title: "**Distal mutations in a designed retro-aldolase alter loop dynamics to shift and accelerate the rate-limiting step**"
+  citation: Hunt SE, Klaus C, John AE, Zarifi N, Martinez A, Feixas F, Garcia-Borras M, **Thompson MC**, Chica RA. (2024) *bioRxiv*."
+  date: 202501
+  image: '/images/pub/hunt_2025.jpg'
+  pmid: 
+  pmcid: 
+  biorxiv: 2025.01.26.634918
+  pdf: '/pdf/hunt_2025.pdf'
+  pdbs:
+    - 9MYA
+    - 9MYB 
+  links:
+    - name: Chica Lab @ UOttawa
+      url: https://mysite.science.uottawa.ca/rchica/
+    - name: Garcia-Borras Lab @ iQCC
+      url: http://iqcc.udg.edu/portfolio/marc-garcia-borras-2/
 
 - title: "**The C-terminal Region of D-DT Regulates Molecular Recognition for Protein–Ligand Complexes**"
   citation: Parkins A, Pilien AVR, **Wolff AM**, Argueta C, Vargas J, Sadeghi S, Franz AH, **Thompson MC**, Pantouris G. (2024) *Journal of Medicinal Chemistry*."
