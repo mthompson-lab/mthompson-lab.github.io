@@ -1,5 +1,5 @@
 ---
-title: This week's seminar speakers, again from the Thompson lab! 
+title: Our innovation in gingerbread house! 
 author: Behnoush Seifinoferest 
 layout: pages
 group: news
